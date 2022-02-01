@@ -1,0 +1,52 @@
+Apple Dictionary.dictionary	Apple Dictionary
+Arabic - English.dictionary	Oxford Arabic Dictionary - عربي-إنجليزي • إنجليزي-عربي
+Cantonese - English.dictionary	英譯廣東口語詞典
+Danish.dictionary	Politikens Nudansk Ordbog
+Duden Dictionary Data Set I.dictionary	Duden-Wissensnetz deutsche Sprache
+Dutch - English.dictionary	Prisma Handwoordenboek Engels
+Dutch.dictionary	Prisma woordenboek Nederlands
+French - English.dictionary	Oxford-Hachette French Dictionary
+French - German.dictionary	PONS Großwörterbuch Französisch Deutsch
+French.dictionary	Multidictionnaire de la langue française
+German - English.dictionary	Oxford German Dictionary
+Gujarati - English.dictionary	Oxford Gujarati Dictionaries - ગુજરાતી-અંગ્રેજી • અંગ્રેજી-ગુજરાતી
+Hebrew.dictionary	מילון אבן-שושן מחודש ומותאם לשנות האלפיים
+Hindi - English.dictionary	Oxford Hindi Dictionaries - हिन्दी-अंग्रेज़ी • अंग्रेज़ी-हिन्दी
+Hindi.dictionary	राजपाल हिन्दी शब्दकोश
+Indonesian - English.dictionary	Oxford Study Indonesian Dictionary - Inggris-Indonesia • Indonesia-Inggris
+Italian - English.dictionary	Oxford Paravia Il Dizionario inglese - italiano/italiano - inglese
+Italian.dictionary	Dizionario italiano da un affiliato di Oxford University Press
+Korean - English.dictionary	뉴에이스 영한사전 / 뉴에이스 한영사전
+Korean.dictionary	뉴에이스 국어사전
+New Oxford American Dictionary.dictionary	New Oxford American Dictionary
+Norwegian.dictionary	Norsk Ordbok
+Oxford American Writer's Thesaurus.dictionary	Oxford American Writer’s Thesaurus
+Oxford Dictionary of English.dictionary	Oxford Dictionary of English
+Oxford Thesaurus of English.dictionary	Oxford Thesaurus of English
+Polish - English.dictionary	Oxford PWN Polish-English Dictionary / Wielki słownik polsko-angielski
+Portuguese - English.dictionary	Oxford Portuguese Dictionary - Português-Inglês • Inglês-Português
+Portuguese.dictionary	Dicionário de Português licenciado para Oxford University Press
+Russian - English.dictionary	Oxford Russian Dictionary - Русско-Английский • Англо-Русский
+Russian.dictionary	Толковый словарь русского языка
+Sanseido Super Daijirin.dictionary	スーパー大辞林
+Sanseido The WISDOM English-Japanese Japanese-English Dictionary.dictionary	ウィズダム英和辞典 / ウィズダム和英辞典
+Simplified Chinese - English.dictionary	牛津英汉汉英词典
+Simplified Chinese - Japanese.dictionary	超級クラウン中日辞典 / クラウン日中辞典
+Simplified Chinese Idioms.dictionary	汉语成语词典
+Simplified Chinese Thesaurus.dictionary	现代汉语同义词典
+Spanish - English.dictionary	Gran Diccionario Oxford - Español-Inglés • Inglés-Español
+Spanish.dictionary	Diccionario General de la Lengua Española Vox
+Swedish.dictionary	NE Ordbok
+TTY Abbreviations Dictionary.dictionary	TTY Dictionary
+Tamil - English.dictionary	Oxford Tamil Dictionaries - தமிழ்-ஆங்கிலம் • ஆங்கிலம்-தமிழ்
+Telugu - English.dictionary	Oxford Telugu Dictionaries - తెలుగు-ఇంగ్లీష్ • ఇంగ్లీష్-తెలుగు
+Thai - English.dictionary	พจนานุกรมอังกฤษ-ไทย & ไทย-อังกฤษ ฉบับทันสมัยและสมบูรณ์ที่สุด
+Thai.dictionary	พจนานุกรมไทย ฉบับทันสมัยและสมบูรณ์
+The Standard Dictionary of Contemporary Chinese.dictionary	现代汉语规范词典
+Traditional Chinese - English Idioms.dictionary	漢英對照成語詞典
+Traditional Chinese - English.dictionary	譯典通英漢雙向字典
+Traditional Chinese Common Words.dictionary	商務新詞典（全新版）
+Traditional Chinese.dictionary	五南國語活用辭典
+Turkish.dictionary	Arkadaş Türkçe Sözlük
+Urdu - English.dictionary	Oxford Urdu Dictionaries - اردو۔انگریزی • انگریزی-اردو
+Vietnamese - English.dictionary	Từ điển Lạc Việt

@@ -1,0 +1,797 @@
+.Al Bayan PUA	.Al Bayan PUA Bold
+.Al Bayan PUA	.Al Bayan PUA Plain
+.Al Rafidain PUA	.Al Rafidain PUA Regular
+.Al Tarikh PUA	.Al Tarikh PUA
+.AlFirat PUA	.Al-Firat PUA
+.AlKhalil PUA	.Al-Khalil PUA
+.AlKhalil PUA	.Al-Khalil PUA Bold
+.AlRafidain AlFanni PUA	.AlRafidain AlFanni PUA
+.Algiers PUA	.Algiers PUA
+.Baghdad PUA	.Baghdad PUA
+.Basra PUA	.Basra PUA
+.Basra PUA	.Basra PUA Bold
+.Beirut PUA	.Beirut PUA
+.DecoType Naskh PUA	.DecoType Naskh PUA
+.Dijla PUA	.Dijla PUA
+.Diwan Kufi PUA	.Diwan Kufi PUA
+.Hiragino Kaku Gothic Interface	.Hiragino Kaku Gothic Interface W0
+.Hiragino Kaku Gothic Interface	.Hiragino Kaku Gothic Interface W1
+.Hiragino Kaku Gothic Interface	.Hiragino Kaku Gothic Interface W2
+.Hiragino Kaku Gothic Interface	.Hiragino Kaku Gothic Interface W4
+.Hiragino Kaku Gothic Interface	.Hiragino Kaku Gothic Interface W5
+.Hiragino Kaku Gothic Interface	.Hiragino Kaku Gothic Interface W7
+.Hiragino Kaku Gothic Interface	.Hiragino Kaku Gothic Interface W8
+.Hiragino Kaku Gothic Interface	.Hiragino Kaku Gothic Interface W9
+.Hiragino Sans GB Interface	.Hiragino Sans GB Interface W3
+.Hiragino Sans GB Interface	.Hiragino Sans GB Interface W6
+.Koufi Abjadi PUA	.Koufi Abjadi PUA
+.KufiStandardGK PUA	.KufiStandardGK PUA
+.Laimoon PUA	.Laimoon PUA
+.Muna PUA	.Muna PUA
+.Muna PUA	.Muna PUA Black
+.Muna PUA	.Muna PUA Bold
+.Nadeem PUA	.Nadeem PUA
+.Nisan PUA	.Nisan PUA
+.Raya PUA	.Raya PUA
+.Sana PUA	.Sana PUA
+.Somer PUA	.Somer PUA
+.Yaziji PUA	.Yaziji PUA
+.Zawra PUA	.Zawra PUA Bold
+.Zawra PUA	.Zawra PUA Heavy
+Adelle Sans Devanagari	Adelle Sans Devanagari Bold
+Adelle Sans Devanagari	Adelle Sans Devanagari Extrabold
+Adelle Sans Devanagari	Adelle Sans Devanagari Heavy
+Adelle Sans Devanagari	Adelle Sans Devanagari Light
+Adelle Sans Devanagari	Adelle Sans Devanagari Regular
+Adelle Sans Devanagari	Adelle Sans Devanagari Semibold
+Adelle Sans Devanagari	Adelle Sans Devanagari Thin
+Al Bayan	Al Bayan Bold	البيان عريض
+Al Bayan	Al Bayan Plain	البيان بسيط
+Al Firat	Al Firat Regular	الفرات عادي
+Al Khalil	Al Khalil Bold	الخليل عريض
+Al Khalil	Al Khalil Regular	الخليل عادي
+Al Rafidain	Al Rafidain Regular	الرافدين عادي
+Al Rafidain Al Fanni	Al Rafidain Al Fanni	الرافدين الفني عادي
+Al Tarikh	Al Tarikh Regular	التاريخ عادي
+Algiers	Algiers Regular	الجزائر عادي
+Andale Mono	Andale Mono
+Annai MN	Annai MN Regular
+Apple Braille	Apple Braille
+Apple Braille	Apple Braille Outline 6 Dot
+Apple Braille	Apple Braille Outline 8 Dot
+Apple Braille	Apple Braille Pinpoint 6 Dot
+Apple Braille	Apple Braille Pinpoint 8 Dot
+Apple Chancery	Apple Chancery
+Apple LiGothic	Apple LiGothic Medium	蘋果儷中黑	蘋果儷中黑
+Apple LiSung	Apple LiSung Light	蘋果儷細宋	蘋果儷細宋
+Apple SD Gothic Neo	Apple SD Gothic Neo Heavy	Apple SD 산돌고딕 Neo 무거운
+Apple SD Gothic Neo	Apple SD GothicNeo ExtraBold	Apple SD 산돌고딕 Neo 강한 볼드체
+AppleMyungjo	AppleMyungjo Regular	AppleMyungjo 일반체
+Arial Black	Arial Black	Arial Black Normal	Arial Black obyčejné	Arial Black normal	Arial Black Standard	Arial Black Κανονικά	Arial Black Normal	Arial Black Normaali	Arial Black Normal	Arial Black Normál	Arial Black Normale	Arial Black Normal	Arial Black Standaard	Arial Black Normalny	Arial Black Normal	Arial Black Обычный	Arial Black Normálne	Arial Black Normal	Arial Black Normal
+Arial Hebrew Scholar	Arial Hebrew Scholar
+Arial Hebrew Scholar	Arial Hebrew Scholar Bold
+Arial Hebrew Scholar	Arial Hebrew Scholar Light
+Arial Narrow	Arial Narrow
+Arial Narrow	Arial Narrow Bold	Arial Narrow Negreta	Arial Narrow tučné	Arial Narrow fed	Arial Narrow Fett	Arial Narrow Έντονα	Arial Narrow Negrita	Arial Narrow Lihavoitu	Arial Narrow Gras	Arial Narrow Félkövér	Arial Narrow Grassetto	Arial Narrow Halvfet	Arial Narrow Vet	Arial Narrow Pogrubiony	Arial Narrow Negrito	Arial Narrow Полужирный	Arial Narrow Tučné	Arial Narrow Fet	Arial Narrow Kalın
+Arial Narrow	Arial Narrow Bold Italic	Arial Narrow Negreta cursiva	Arial Narrow tučné kurzíva	Arial Narrow fed kursiv	Arial Narrow Fett Kursiv	Arial Narrow Έντονα Πλάγια	Arial Narrow Negrita Cursiva	Arial Narrow Lihavoitu Kursivoi	Arial Narrow Gras Italique	Arial Narrow Félkövér dőlt	Arial Narrow Grassetto Corsivo	Arial Narrow Halvfet Kursiv	Arial Narrow Vet Cursief	Arial Narrow Pogrubiona kursywa	Arial Narrow Negrito Itálico	Arial Narrow Полужирный Курсив	Arial Narrow Tučná kurzíva	Arial Narrow Fet Kursiv	Arial Narrow Kalın İtalik
+Arial Narrow	Arial Narrow Italic	Arial Narrow Cursiva	Arial Narrow kurzíva	Arial Narrow kursiv	Arial Narrow Kursiv	Arial Narrow Πλάγια	Arial Narrow Cursiva	Arial Narrow Kursivoitu	Arial Narrow Italique	Arial Narrow Dőlt	Arial Narrow Corsivo	Arial Narrow Kursiv	Arial Narrow Cursief	Arial Narrow Kursywa	Arial Narrow Itálico	Arial Narrow Курсив	Arial Narrow Kurzíva	Arial Narrow Kursiv	Arial Narrow İtalik
+Arial Unicode MS	Arial Unicode MS
+Ayuthaya	Ayuthaya
+BM DoHyeon OTF	BM DoHyeon OTF	배달의민족 도현 OTF
+BM HANNA 11yrs old OTF	BM HANNA 11yrs old OTF	배달의민족 한나는 열한살 OTF
+BM HANNA Air OTF	BM HANNA Air OTF	배달의민족 한나체 Air OTF
+BM HANNA Pro OTF	BM HANNA Pro OTF	배달의민족 한나체 Pro OTF
+BM JUA OTF	BM JUA OTF	배달의민족 주아 OTF
+BM KIRANGHAERANG OTF	BM KIRANGHAERANG OTF	배달의민족 기랑해랑 OTF
+BM YEONSUNG OTF	BM YEONSUNG OTF	배달의민족 연성 OTF
+Baghdad	Baghdad Regular	بغداد عادي
+Baloo	Baloo Regular
+Baloo 2	Baloo 2 Bold
+Baloo 2	Baloo 2 ExtraBold
+Baloo 2	Baloo 2 Medium
+Baloo 2	Baloo 2 Regular
+Baloo 2	Baloo 2 SemiBold
+Baloo Bhai	Baloo Bhai Regular
+Baloo Bhai 2	Baloo Bhai 2 Bold
+Baloo Bhai 2	Baloo Bhai 2 ExtraBold
+Baloo Bhai 2	Baloo Bhai 2 Medium
+Baloo Bhai 2	Baloo Bhai 2 Regular
+Baloo Bhai 2	Baloo Bhai 2 SemiBold
+Baloo Bhaijaan	Baloo Bhaijaan Regular
+Baloo Bhaina	Baloo Bhaina Regular
+Baloo Bhaina 2	Baloo Bhaina 2 Bold
+Baloo Bhaina 2	Baloo Bhaina 2 ExtraBold
+Baloo Bhaina 2	Baloo Bhaina 2 Medium
+Baloo Bhaina 2	Baloo Bhaina 2 Regular
+Baloo Bhaina 2	Baloo Bhaina 2 SemiBold
+Baloo Chettan	Baloo Chettan Regular
+Baloo Chettan 2	Baloo Chettan 2 Bold
+Baloo Chettan 2	Baloo Chettan 2 ExtraBold
+Baloo Chettan 2	Baloo Chettan 2 Medium
+Baloo Chettan 2	Baloo Chettan 2 Regular
+Baloo Chettan 2	Baloo Chettan 2 SemiBold
+Baloo Da	Baloo Da Regular
+Baloo Da 2	Baloo Da 2 Bold
+Baloo Da 2	Baloo Da 2 ExtraBold
+Baloo Da 2	Baloo Da 2 Medium
+Baloo Da 2	Baloo Da 2 Regular
+Baloo Da 2	Baloo Da 2 SemiBold
+Baloo Paaji	Baloo Paaji Regular
+Baloo Paaji 2	Baloo Paaji 2 Bold
+Baloo Paaji 2	Baloo Paaji 2 ExtraBold
+Baloo Paaji 2	Baloo Paaji 2 Medium
+Baloo Paaji 2	Baloo Paaji 2 Regular
+Baloo Paaji 2	Baloo Paaji 2 SemiBold
+Baloo Tamma	Baloo Tamma Regular
+Baloo Tamma 2	Baloo Tamma 2 Bold
+Baloo Tamma 2	Baloo Tamma 2 ExtraBold
+Baloo Tamma 2	Baloo Tamma 2 Medium
+Baloo Tamma 2	Baloo Tamma 2 Regular
+Baloo Tamma 2	Baloo Tamma 2 SemiBold
+Baloo Tammudu	Baloo Tammudu Regular
+Baloo Tammudu 2	Baloo Tammudu 2 Bold
+Baloo Tammudu 2	Baloo Tammudu 2 ExtraBold
+Baloo Tammudu 2	Baloo Tammudu 2 Medium
+Baloo Tammudu 2	Baloo Tammudu 2 Regular
+Baloo Tammudu 2	Baloo Tammudu 2 SemiBold
+Baloo Thambi	Baloo Thambi Regular
+Baloo Thambi 2	Baloo Thambi 2 Bold
+Baloo Thambi 2	Baloo Thambi 2 ExtraBold
+Baloo Thambi 2	Baloo Thambi 2 Medium
+Baloo Thambi 2	Baloo Thambi 2 Regular
+Baloo Thambi 2	Baloo Thambi 2 SemiBold
+Bangla MN	Bangla MN
+Bangla MN	Bangla MN Bold
+Bangla Sangam MN	Bangla Sangam MN
+Bangla Sangam MN	Bangla Sangam MN Bold
+Bank Gothic	Bank Gothic Light
+Bank Gothic	Bank Gothic Medium
+Baoli SC	Baoli SC Regular	报隶-简 常规体	報隸-簡 標準體
+Baoli TC	Baoli TC Regular	报隶-繁 常规体	報隸-繁 標準體
+Basra	Basra Bold	بصرة عريض
+Basra	Basra Regular	بصرة عادي
+Beirut	Beirut Regular	بيروت عادي
+BiauKai	BiauKai	標楷體	標楷體
+Big Caslon	Big Caslon Medium
+Blackmoor LET	Blackmoor LET Plain:2.0
+BlairMdITC TT	BlairMdITC TT Medium
+Bodoni Ornaments ITC TT	Bodoni Ornaments ITC TT
+Bodoni SvtyTwo ITC TT	Bodoni SvtyTwo ITC TT Bold
+Bodoni SvtyTwo ITC TT	Bodoni SvtyTwo ITC TT Book
+Bodoni SvtyTwo ITC TT	Bodoni SvtyTwo ITC TT BookIta
+Bodoni SvtyTwo OS ITC TT	Bodoni SvtyTwo OS ITC TT Bold
+Bodoni SvtyTwo OS ITC TT	Bodoni SvtyTwo OS ITC TT Book
+Bodoni SvtyTwo OS ITC TT	Bodoni SvtyTwo OS ITC TT BookIt
+Bodoni SvtyTwo SC ITC TT	Bodoni SvtyTwo SC ITC TT Book
+Book Antiqua	Book Antiqua
+Book Antiqua	Book Antiqua Bold	Book Antiqua Negreta	Book Antiqua tučné	Book Antiqua fed	Book Antiqua Fett	Book Antiqua Έντονα	Book Antiqua Negrita	Book Antiqua Lihavoitu	Book Antiqua Gras	Book Antiqua Félkövér	Book Antiqua Grassetto	Book Antiqua Halvfet	Book Antiqua Vet	Book Antiqua Pogrubiony	Book Antiqua Negrito	Book Antiqua Полужирный	Book Antiqua Tučné	Book Antiqua Fet	Book Antiqua Kalın
+Book Antiqua	Book Antiqua Bold Italic	Book Antiqua Negreta cursiva	Book Antiqua tučné kurzíva	Book Antiqua fed kursiv	Book Antiqua Fett Kursiv	Book Antiqua Έντονα Πλάγια	Book Antiqua Negrita Cursiva	Book Antiqua Lihavoitu Kursivoi	Book Antiqua Gras Italique	Book Antiqua Félkövér dőlt	Book Antiqua Grassetto Corsivo	Book Antiqua Halvfet Kursiv	Book Antiqua Vet Cursief	Book Antiqua Pogrubiona kursywa	Book Antiqua Negrito Itálico	Book Antiqua Полужирный Курсив	Book Antiqua Tučná kurzíva	Book Antiqua Fet Kursiv	Book Antiqua Kalın İtalik
+Book Antiqua	Book Antiqua Italic	Book Antiqua Cursiva	Book Antiqua kurzíva	Book Antiqua kursiv	Book Antiqua Kursiv	Book Antiqua Πλάγια	Book Antiqua Cursiva	Book Antiqua Kursivoitu	Book Antiqua Italique	Book Antiqua Dőlt	Book Antiqua Corsivo	Book Antiqua Kursiv	Book Antiqua Cursief	Book Antiqua Kursywa	Book Antiqua Itálico	Book Antiqua Курсив	Book Antiqua Kurzíva	Book Antiqua Kursiv	Book Antiqua İtalik
+Bookman Old Style	Bookman Old Style
+Bookman Old Style	Bookman Old Style Bold	Bookman Old Style Negreta	Bookman Old Style tučné	Bookman Old Style fed	Bookman Old Style Fett	Bookman Old Style Έντονα	Bookman Old Style Negrita	Bookman Old Style Lihavoitu	Bookman Old Style Gras	Bookman Old Style Félkövér	Bookman Old Style Grassetto	Bookman Old Style Halvfet	Bookman Old Style Vet	Bookman Old Style Pogrubiony	Bookman Old Style Negrito	Bookman Old Style Полужирный	Bookman Old Style Tučné	Bookman Old Style Fet	Bookman Old Style Kalın
+Bookman Old Style	Bookman Old Style Bold Italic	Bookman Old Style Negreta cursiva	Bookman Old Style tučné kurzíva	Bookman Old Style fed kursiv	Bookman Old Style Fett Kursiv	Bookman Old Style Έντονα Πλάγια	Bookman Old Style Negrita Cursiva	Bookman Old Style Lihavoitu Kursivoi	Bookman Old Style Gras Italique	Bookman Old Style Félkövér dőlt	Bookman Old Style Grassetto Corsivo	Bookman Old Style Halvfet Kursiv	Bookman Old Style Vet Cursief	Bookman Old Style Pogrubiona kursywa	Bookman Old Style Negrito Itálico	Bookman Old Style Полужирный Курсив	Bookman Old Style Tučná kurzíva	Bookman Old Style Fet Kursiv	Bookman Old Style Kalın İtalik
+Bookman Old Style	Bookman Old Style Italic	Bookman Old Style Cursiva	Bookman Old Style kurzíva	Bookman Old Style kursiv	Bookman Old Style Kursiv	Bookman Old Style Πλάγια	Bookman Old Style Cursiva	Bookman Old Style Kursivoitu	Bookman Old Style Italique	Bookman Old Style Dőlt	Bookman Old Style Corsivo	Bookman Old Style Kursiv	Bookman Old Style Cursief	Bookman Old Style Kursywa	Bookman Old Style Itálico	Bookman Old Style Курсив	Bookman Old Style Kurzíva	Bookman Old Style Kursiv	Bookman Old Style İtalik
+Bordeaux Roman Bold LET	Bordeaux Roman Bold LET Plain
+Braganza	Braganza
+Brush Script MT	Brush Script MT Italic	Brush Script MT kursiv	Brush Script MT Kursiv	Brush Script MT Cursiva	Brush Script MT Kursivoitu	Brush Script MT Italique	Brush Script MT Corsivo	Brush Script MT Kursiv	Brush Script MT Cursief	Brush Script MT Itálico	Brush Script MT Kursiv
+Cambay Devanagari	Cambay Devanagari Bold
+Cambay Devanagari	Cambay Devanagari Bold Oblique
+Cambay Devanagari	Cambay Devanagari Oblique
+Cambay Devanagari	Cambay Devanagari Regular
+Canela	Canela Bold
+Canela	Canela Bold Italic
+Canela	Canela Regular
+Canela	Canela Regular Italic
+Canela Deck	Canela Deck Bold
+Canela Deck	Canela Deck Bold Italic
+Canela Deck	Canela Deck Medium
+Canela Deck	Canela Deck Medium Italic
+Canela Deck	Canela Deck Regular
+Canela Deck	Canela Deck Regular Italic
+Canela Text	Canela Text Bold
+Canela Text	Canela Text Bold Italic
+Canela Text	Canela Text Medium
+Canela Text	Canela Text Medium Italic
+Canela Text	Canela Text Regular
+Canela Text	Canela Text Regular Italic
+Capitals	Capitals
+Century Gothic	Century Gothic
+Century Gothic	Century Gothic Bold	Century Gothic Negreta	Century Gothic tučné	Century Gothic fed	Century Gothic Fett	Century Gothic Έντονα	Century Gothic Negrita	Century Gothic Lihavoitu	Century Gothic Gras	Century Gothic Félkövér	Century Gothic Grassetto	Century Gothic Halvfet	Century Gothic Vet	Century Gothic Pogrubiony	Century Gothic Negrito	Century Gothic Полужирный	Century Gothic Tučné	Century Gothic Fet	Century Gothic Kalın
+Century Gothic	Century Gothic Bold Italic	Century Gothic Negreta cursiva	Century Gothic tučné kurzíva	Century Gothic fed kursiv	Century Gothic Fett Kursiv	Century Gothic Έντονα Πλάγια	Century Gothic Negrita Cursiva	Century Gothic Lihavoitu Kursivoi	Century Gothic Gras Italique	Century Gothic Félkövér dőlt	Century Gothic Grassetto Corsivo	Century Gothic Halvfet Kursiv	Century Gothic Vet Cursief	Century Gothic Pogrubiona kursywa	Century Gothic Negrito Itálico	Century Gothic Полужирный Курсив	Century Gothic Tučná kurzíva	Century Gothic Fet Kursiv	Century Gothic Kalın İtalik
+Century Gothic	Century Gothic Italic	Century Gothic Cursiva	Century Gothic kurzíva	Century Gothic kursiv	Century Gothic Kursiv	Century Gothic Πλάγια	Century Gothic Cursiva	Century Gothic Kursivoitu	Century Gothic Italique	Century Gothic Dőlt	Century Gothic Corsivo	Century Gothic Kursiv	Century Gothic Cursief	Century Gothic Kursywa	Century Gothic Itálico	Century Gothic Курсив	Century Gothic Kurzíva	Century Gothic Kursiv	Century Gothic İtalik
+Century Schoolbook	Century Schoolbook
+Century Schoolbook	Century Schoolbook Bold	Century Schoolbook Negreta	Century Schoolbook tučné	Century Schoolbook fed	Century Schoolbook Fett	Century Schoolbook Έντονα	Century Schoolbook Negrita	Century Schoolbook Lihavoitu	Century Schoolbook Gras	Century Schoolbook Félkövér	Century Schoolbook Grassetto	Century Schoolbook Halvfet	Century Schoolbook Vet	Century Schoolbook Pogrubiony	Century Schoolbook Negrito	Century Schoolbook Полужирный	Century Schoolbook Tučné	Century Schoolbook Fet	Century Schoolbook Kalın
+Century Schoolbook	Century Schoolbook Bold Italic	Century Schoolbook Negreta cursiva	Century Schoolbook tučné kurzíva	Century Schoolbook fed kursiv	Century Schoolbook Fett Kursiv	Century Schoolbook Έντονα Πλάγια	Century Schoolbook Negrita Cursiva	Century Schoolbook Lihavoitu Kursivoi	Century Schoolbook Gras Italique	Century Schoolbook Félkövér dőlt	Century Schoolbook Grassetto Corsivo	Century Schoolbook Halvfet Kursiv	Century Schoolbook Vet Cursief	Century Schoolbook Pogrubiona kursywa	Century Schoolbook Negrito Itálico	Century Schoolbook Полужирный Курсив	Century Schoolbook Tučná kurzíva	Century Schoolbook Fet Kursiv	Century Schoolbook Kalın İtalik
+Century Schoolbook	Century Schoolbook Italic	Century Schoolbook Cursiva	Century Schoolbook kurzíva	Century Schoolbook kursiv	Century Schoolbook Kursiv	Century Schoolbook Πλάγια	Century Schoolbook Cursiva	Century Schoolbook Kursivoitu	Century Schoolbook Italique	Century Schoolbook Dőlt	Century Schoolbook Corsivo	Century Schoolbook Kursiv	Century Schoolbook Cursief	Century Schoolbook Kursywa	Century Schoolbook Itálico	Century Schoolbook Курсив	Century Schoolbook Kurzíva	Century Schoolbook Kursiv	Century Schoolbook İtalik
+Chalkboard	Chalkboard
+Chalkboard	Chalkboard Bold
+Charcoal CY	Charcoal CY
+Comic Sans MS	Comic Sans MS
+Comic Sans MS	Comic Sans MS Bold	Comic Sans MS Negreta	Comic Sans MS tučné	Comic Sans MS fed	Comic Sans MS Fett	Comic Sans MS Έντονα	Comic Sans MS Negrita	Comic Sans MS Lihavoitu	Comic Sans MS Gras	Comic Sans MS Félkövér	Comic Sans MS Grassetto	Comic Sans MS Halvfet	Comic Sans MS Vet	Comic Sans MS Pogrubiony	Comic Sans MS Negrito	Comic Sans MS Полужирный	Comic Sans MS Tučné	Comic Sans MS Fet	Comic Sans MS Kalın
+Corsiva Hebrew	Corsiva Hebrew
+Corsiva Hebrew	Corsiva Hebrew Bold
+Dear Joe Four	Dear Joe Four
+Dear Joe Four	Dear Joe Four Small
+DecoType Naskh	DecoType Naskh Regular	نسخ عادي
+Devanagari MT	Devanagari MT
+Devanagari MT	Devanagari MT Bold
+Dijla	Dijla Regular	دجلة عادي
+Diwan Kufi	Diwan Kufi Regular	ديوان كوفي عادي
+Diwan Thuluth	Diwan Thuluth Regular	ديوان ثلث عادي
+Domaine Display	Domaine Display
+Domaine Display	Domaine Display Bold
+Domaine Display	Domaine Display Bold Italic
+Domaine Display	Domaine Display Italic
+Domaine Display	Domaine Display Medium
+Domaine Display	Domaine Display Medium Italic
+Druk	Druk Heavy Regular
+Druk	Druk Medium Italic
+Druk	Druk Medium Regular
+Druk	Druk Super Italic
+Druk	Druk Super Regular
+Druk Bold	Druk Bold Italic
+Druk Bold	Druk Bold Regular
+Druk Wide	Druk Wide Medium Italic
+Druk Wide Bold	Druk Wide Bold
+Druk Wide Bold Italic	Druk Wide Bold Italic
+Farisi	Farisi Regular	فارسي عادي
+Forgotten Futurist	Forgotten Futurist Bold
+Forgotten Futurist	Forgotten Futurist Bold Italic
+Forgotten Futurist	Forgotten Futurist Italic
+Forgotten Futurist	Forgotten Futurist Regular
+Forgotten Futurist	Forgotten Futurist Shadow
+Founders Grotesk	Founders Grotesk
+Founders Grotesk	Founders Grotesk Bold
+Founders Grotesk	Founders Grotesk Bold Italic
+Founders Grotesk	Founders Grotesk Light
+Founders Grotesk	Founders Grotesk Light Italic
+Founders Grotesk	Founders Grotesk Medium
+Founders Grotesk	Founders Grotesk Medium Italic
+Founders Grotesk	Founders Grotesk Regular Italic
+Founders Grotesk	Founders Grotesk Semibold
+Founders Grotesk	Founders Grotesk Semibold Italic
+Founders Grotesk Condensed	Founders Grotesk Condensed
+Founders Grotesk Condensed	Founders Grotesk Condensed Bold
+Founders Grotesk Condensed	Founders Grotesk Condensed Semibold
+Founders Grotesk Text	Founders Grotesk Text
+Founders Grotesk Text	Founders Grotesk Text Bold
+Founders Grotesk Text	Founders Grotesk Text Bold Italic
+Founders Grotesk Text	Founders Grotesk Text Regular Italic
+Garamond	Garamond
+Garamond	Garamond Bold	Garamond Negreta	Garamond tučné	Garamond fed	Garamond Fett	Garamond Έντονα	Garamond Negrita	Garamond Lihavoitu	Garamond Gras	Garamond Félkövér	Garamond Grassetto	Garamond Halvfet	Garamond Vet	Garamond Pogrubiony	Garamond Negrito	Garamond Полужирный	Garamond Tučné	Garamond Fet	Garamond Kalın
+Garamond	Garamond Bold Italic
+Garamond	Garamond Italic	Garamond Cursiva	Garamond kurzíva	Garamond kursiv	Garamond Kursiv	Garamond Πλάγια	Garamond Cursiva	Garamond Kursivoitu	Garamond Italique	Garamond Dőlt	Garamond Corsivo	Garamond Kursiv	Garamond Cursief	Garamond Kursywa	Garamond Itálico	Garamond Курсив	Garamond Kurzíva	Garamond Kursiv	Garamond İtalik
+Geneva	Geneva
+Geneva CY	Geneva CY
+Gotu	Gotu
+Grantha Sangam MN	Grantha Sangam MN Black
+Grantha Sangam MN	Grantha Sangam MN DemiBold
+Grantha Sangam MN	Grantha Sangam MN Light
+Grantha Sangam MN	Grantha Sangam MN Medium
+Graphik	Graphik
+Graphik	Graphik Bold
+Graphik	Graphik Bold Italic
+Graphik	Graphik Light
+Graphik	Graphik Light Italic
+Graphik	Graphik Medium
+Graphik	Graphik Medium Italic
+Graphik	Graphik Regular Italic
+Graphik	Graphik Semibold
+Graphik	Graphik Semibold Italic
+Graphik Compact	Graphik Compact Bold
+Graphik Compact	Graphik Compact Bold Italic
+Graphik Compact	Graphik Compact Medium
+Graphik Compact	Graphik Compact Medium Italic
+Graphik Compact	Graphik Compact Regular
+Graphik Compact	Graphik Compact Regular Italic
+Graphik Compact	Graphik Compact Semibold
+Graphik Compact	Graphik Compact Semibold Italic
+Gujarati MT	Gujarati MT
+Gujarati MT	Gujarati MT Bold
+Gujarati Sangam MN	Gujarati Sangam MN
+Gujarati Sangam MN	Gujarati Sangam MN Bold
+GungSeo	GungSeo Regular	궁서체 일반체
+Gurmukhi MN	Gurmukhi MN
+Gurmukhi MN	Gurmukhi MN Bold
+Gurmukhi MT	Gurmukhi MT
+Gurmukhi Sangam MN	Gurmukhi Sangam MN
+Gurmukhi Sangam MN	Gurmukhi Sangam MN Bold
+Hannotate SC	Hannotate SC Bold	手札体-简 粗体	手札體-簡 粗體
+Hannotate SC	Hannotate SC Regular	手札体-简 常规体	手札體-簡 標準體
+Hannotate TC	Hannotate TC Bold	手札体-繁 粗体	手札體-繁 粗體
+Hannotate TC	Hannotate TC Regular	手札体-繁 常规体	手札體-繁 標準體
+HanziPen SC	HanziPen SC Bold	翩翩体-简 粗体	翩翩體-簡 粗體
+HanziPen SC	HanziPen SC Regular	翩翩体-简 常规体	翩翩體-簡 標準體
+HanziPen TC	HanziPen TC Bold	翩翩体-繁 粗体	翩翩體-繁 粗體
+HanziPen TC	HanziPen TC Regular	翩翩体-繁 常规体	翩翩體-繁 標準體
+HeadLineA	HeadLineA Regular	헤드라인A 일반체
+Hei	Hei Regular
+Heiti SC	Heiti SC Light	黒体-簡 ライト	Heiti-간체 가는체	黑体-简 细体	黑體-簡 細體
+Heiti SC	Heiti SC Medium	黒体-簡 ミディアム	Heiti-간체 중간체	黑体-简 中等	黑體-簡 中黑
+Heiti TC	Heiti TC Light	黒体-繁 ライト	Heiti-번체 가는체	黑体-繁 细体	黑體-繁 細體
+Heiti TC	Heiti TC Medium	黒体-繁 ミディアム	Heiti-번체 중간체	黑体-繁 中等	黑體-繁 中黑
+Helvetica CY	Helvetica CY Bold
+Helvetica CY	Helvetica CY BoldOblique
+Helvetica CY	Helvetica CY Oblique
+Helvetica CY	Helvetica CY Plain
+Herculanum	Herculanum
+Hiragino Kaku Gothic Std	Hiragino Kaku Gothic Std W8	ヒラギノ角ゴ Std W8
+Hiragino Kaku Gothic StdN	Hiragino Kaku Gothic StdN W8	ヒラギノ角ゴ StdN W8
+Hiragino Sans	Hiragino Sans W0	ヒラギノ角ゴシック W0
+Hiragino Sans	Hiragino Sans W1	ヒラギノ角ゴシック W1
+Hiragino Sans	Hiragino Sans W2	ヒラギノ角ゴシック W2
+Hiragino Sans	Hiragino Sans W4	ヒラギノ角ゴシック W4
+Hiragino Sans	Hiragino Sans W5	ヒラギノ角ゴシック W5
+Hiragino Sans	Hiragino Sans W7	ヒラギノ角ゴシック W7
+Hiragino Sans	Hiragino Sans W8	ヒラギノ角ゴシック W8
+Hiragino Sans	Hiragino Sans W9	ヒラギノ角ゴシック W9
+Hiragino Sans CNS	Hiragino Sans CNS W3	Hiragino Sans CNS W3	Hiragino Sans CNS W3
+Hiragino Sans CNS	Hiragino Sans CNS W6	Hiragino Sans CNS W6	Hiragino Sans CNS W6
+Hiragino Sans GB	Hiragino Sans GB W3	冬青黑体简体中文 W3	冬青黑體簡體中文 W3
+Hiragino Sans GB	Hiragino Sans GB W6	冬青黑体简体中文 W6	冬青黑體簡體中文 W6
+Hoefler Text Ornaments	Hoefler Text Ornaments
+Hopper Script	Hopper Script Regular
+ITF Devanagari	ITFDevanagari-Bold
+ITF Devanagari	ITFDevanagari-Book
+ITF Devanagari	ITFDevanagari-Demi
+ITF Devanagari	ITFDevanagari-Light
+ITF Devanagari	ITFDevanagari-Medium
+ITF Devanagari Marathi	ITF Devanagari Marathi Medium
+ITF Devanagari Marathi	ITFDevanagari Marathi Light
+ITF Devanagari Marathi	ITFDevanagari Marathi-Bold
+ITF Devanagari Marathi	ITFDevanagari Marathi-Book
+ITF Devanagari Marathi	ITFDevanagari Marathi-Demi
+Impact	Impact
+InaiMathi	InaiMathi
+InaiMathi	InaiMathi Bold
+Iowan Old Style	Iowan Old Style Titling
+Iowan Old Style Black	Iowan Old Style Black
+Iowan Old Style Black	Iowan Old Style Black Italic
+Jaini	Jaini
+Jaini Purva	Jaini Purva
+Jazz LET	Jazz LET Plain:1.0
+Kai	Kai Regular
+Kaiti SC	Kaiti SC Black	楷体-简 黑体	楷體-簡 黑體
+Kaiti SC	Kaiti SC Bold	楷体-简 粗体	楷體-簡 粗體
+Kaiti SC	Kaiti SC Regular	楷体-简 常规体	楷體-簡 標準體
+Kaiti TC	Kaiti TC Black	楷体-繁 黑体	楷體-繁 黑體
+Kaiti TC	Kaiti TC Bold	楷体-繁 粗体	楷體-繁 粗體
+Kaiti TC	Kaiti TC Regular	楷体-繁 常规体	楷體-繁 標準體
+Kannada MN	Kannada MN
+Kannada MN	Kannada MN Bold
+Kannada Sangam MN	Kannada Sangam MN
+Kannada Sangam MN	Kannada Sangam MN Bold
+Katari	Katari Bold
+Katari	Katari Regular
+Kefa	Kefa Bold
+Khmer MN	Khmer MN
+Khmer MN	Khmer MN Bold
+Klee	Klee Demibold	クレー デミボールド
+Klee	Klee Medium	クレー ミディアム
+Kohinoor Bangla	Kohinoor Bangla Bold
+Kohinoor Bangla	Kohinoor Bangla Medium
+Kohinoor Devanagari	Kohinoor Devanagari Bold
+Kohinoor Devanagari	Kohinoor Devanagari Medium
+Kohinoor Telugu	Kohinoor Telugu Bold
+Kohinoor Telugu	Kohinoor Telugu Semibold
+Kokonor	Kokonor Regular
+Koufi Abjadi	Koufi Abjadi Regular	كوفي أبجدي عادي
+Krungthep	Krungthep
+KufiStandardGK	KufiStandardGK Regular	كوفي عادي
+Lahore Gurmukhi	Lahore Gurmukhi Bold
+Lahore Gurmukhi	Lahore Gurmukhi Light
+Lahore Gurmukhi	Lahore Gurmukhi Medium
+Lahore Gurmukhi	Lahore Gurmukhi Regular
+Lahore Gurmukhi	Lahore Gurmukhi SemiBold
+Laimoon	Laimoon Regular	ليمون عادي
+Lantinghei SC	Lantinghei SC Demibold	兰亭黑-简 中黑	蘭亭黑-簡 中黑
+Lantinghei SC	Lantinghei SC Extralight	兰亭黑-简 纤黑	蘭亭黑-簡 纖黑
+Lantinghei SC	Lantinghei SC Heavy	兰亭黑-简 特黑	蘭亭黑-簡 特黑
+Lantinghei TC	Lantinghei TC Demibold	兰亭黑-繁 中黑	蘭亭黑-繁 中黑
+Lantinghei TC	Lantinghei TC Extralight	兰亭黑-繁 纤黑	蘭亭黑-繁 纖黑
+Lantinghei TC	Lantinghei TC Heavy	兰亭黑-繁 特黑	蘭亭黑-繁 特黑
+Lao MN	Lao MN
+Lao MN	Lao MN Bold
+Lava Devanagari	Lava Devanagari Bold
+Lava Devanagari	Lava Devanagari Regular
+Lava Devanagari Heavy	Lava Devanagari Heavy
+Lava Devanagari Medium	Lava Devanagari Medium
+Lava Kannada Bold	Lava Kannada Bold
+Lava Kannada Heavy	Lava Kannada Heavy
+Lava Kannada Medium	Lava Kannada Medium
+Lava Kannada Regular	Lava Kannada Regular
+Lava Telugu Bold	Lava Telugu Bold
+Lava Telugu Heavy	Lava Telugu Heavy
+Lava Telugu Medium	Lava Telugu Medium
+Lava Telugu Regular	Lava Telugu Regular
+LiHei Pro	LiHei Pro	儷黑 Pro	儷黑 Pro
+LiSong Pro	LiSong Pro	儷宋 Pro	儷宋 Pro
+Libian SC	Libian SC Regular	隶变-简 常规体	隸變-簡 標準體
+Libian TC	Libian TC Regular	隶变-繁 常规体	隸變-繁 標準體
+LingWai SC	LingWai SC Medium	凌慧体-简 中黑体	凌慧體-簡 中黑體
+LingWai TC	LingWai TC Medium	凌慧体-繁 中黑体	凌慧體-繁 中黑體
+Lucida Grande	Lucida Grande
+Lucida Grande	Lucida Grande Bold
+Luminari	Luminari
+Maku	Maku Bold
+Maku	Maku Regular
+Malayalam MN	Malayalam MN
+Malayalam MN	Malayalam MN Bold
+Microsoft Sans Serif	Microsoft Sans Serif
+Mishafi Gold	Mishafi Gold Regular	مِصحفي ذهبي عادي
+Modak	Modak
+Mona Lisa Solid ITC TT	Mona Lisa Solid ITC TT
+Monaco	Monaco
+Mshtakan	Mshtakan
+Mshtakan	Mshtakan Bold
+Mshtakan	Mshtakan BoldOblique
+Mshtakan	Mshtakan Oblique
+Mukta Bold	Mukta Bold
+Mukta ExtraBold	Mukta ExtraBold
+Mukta ExtraLight	Mukta ExtraLight
+Mukta Light	Mukta Light
+Mukta Malar Bold	Mukta Malar Bold
+Mukta Malar ExtraBold	Mukta Malar ExtraBold
+Mukta Malar ExtraLight	Mukta Malar ExtraLight
+Mukta Malar Light	Mukta Malar Light
+Mukta Malar Medium	Mukta Malar Medium
+Mukta Malar Regular	Mukta Malar Regular
+Mukta Malar SemiBold	Mukta Malar SemiBold
+Mukta Medium	Mukta Medium
+Mukta Regular	Mukta Regular
+Mukta SemiBold	Mukta SemiBold
+Mukta Vaani Bold	Mukta Vaani Bold
+Mukta Vaani ExtraBold	Mukta Vaani ExtraBold
+Mukta Vaani ExtraLight	Mukta Vaani ExtraLight
+Mukta Vaani Light	Mukta Vaani Light
+Mukta Vaani Medium	Mukta Vaani Medium
+Mukta Vaani Regular	Mukta Vaani Regular
+Mukta Vaani SemiBold	Mukta Vaani SemiBold
+MuktaMahee ExtraBold	MuktaMahee ExtraBold
+MuktaMahee ExtraLight	MuktaMahee ExtraLight
+MuktaMahee Medium	MuktaMahee Medium
+MuktaMahee SemiBold	MuktaMahee SemiBold
+Muna	Muna Black	منى أسود
+Muna	Muna Bold	منى عريض
+Muna	Muna Regular	منى عادي
+Myanmar MN	Myanmar MN
+Myanmar MN	Myanmar MN Bold
+Myriad Arabic	Myriad Arabic	Myriad عربي
+Myriad Arabic	Myriad Arabic Bold	Myriad عربي Bold
+Myriad Arabic	Myriad Arabic Bold Italic	Myriad عربي Bold Italic
+Myriad Arabic	Myriad Arabic Italic	Myriad عربي Italic
+Myriad Arabic Black	Myriad Arabic Black	Myriad عربي Black
+Myriad Arabic Black	Myriad Arabic Black Italic	Myriad عربي Black Italic
+Myriad Arabic Light	Myriad Arabic Light	Myriad عربي Light
+Myriad Arabic Light	Myriad Arabic Light Italic	Myriad عربي Light Italic
+Myriad Arabic Semibold	Myriad Arabic Semibold	Myriad عربي Semibold
+Myriad Arabic Semibold	Myriad Arabic Semibold Italic	Myriad عربي Semibold Italic
+Nadeem	Nadeem Regular	نديم عادي
+Nanum Brush Script	Nanum Brush Script	나눔손글씨 붓
+Nanum Pen Script	Nanum Pen Script	나눔손글씨 펜
+NanumGothic	NanumGothic	나눔고딕
+NanumGothic	NanumGothic Bold	나눔고딕 Bold
+NanumGothic	NanumGothic ExtraBold	나눔고딕 ExtraBold
+NanumMyeongjo	NanumMyeongjo	나눔명조
+NanumMyeongjo	NanumMyeongjoBold	나눔명조 Bold
+NanumMyeongjo	NanumMyeongjoExtraBold	나눔명조 ExtraBold
+New Peninim MT	New Peninim MT
+New Peninim MT	New Peninim MT Bold
+New Peninim MT	New Peninim MT Bold Inclined
+New Peninim MT	New Peninim MT Inclined
+Nisan	Nisan Regular	نيسان عادي
+Noto Serif Kannada	Noto Serif Kannada Bold
+Noto Serif Kannada	Noto Serif Kannada Regular
+Noto Serif Kannada Black	Noto Serif Kannada Black
+Noto Serif Kannada ExtraBold	Noto Serif Kannada ExtraBold
+Noto Serif Kannada ExtraLight	Noto Serif Kannada ExtraLight
+Noto Serif Kannada Light	Noto Serif Kannada Light
+Noto Serif Kannada Medium	Noto Serif Kannada Medium
+Noto Serif Kannada SemiBold	Noto Serif Kannada SemiBold
+Noto Serif Kannada Thin	Noto Serif Kannada Thin
+October Compressed Devanagari	October Compressed Devanagari Bold
+October Compressed Devanagari	October Compressed Devanagari Regular
+October Compressed Devanagari Black	October Compressed Devanagari Black
+October Compressed Devanagari ExtraLight	October Compressed Devanagari ExtraLight
+October Compressed Devanagari Hairline	October Compressed Devanagari Hairline
+October Compressed Devanagari Heavy	October Compressed Devanagari Heavy
+October Compressed Devanagari Light	October Compressed Devanagari Light
+October Compressed Devanagari Medium	October Compressed Devanagari Medium
+October Compressed Devanagari Thin	October Compressed Devanagari Thin
+October Compressed Tamil	October Compressed Tamil Bold
+October Compressed Tamil	October Compressed Tamil Regular
+October Compressed Tamil Black	October Compressed Tamil Black
+October Compressed Tamil ExtraLight	October Compressed Tamil ExtraLight
+October Compressed Tamil Hairline	October Compressed Tamil Hairline
+October Compressed Tamil Heavy	October Compressed Tamil Heavy
+October Compressed Tamil Light	October Compressed Tamil Light
+October Compressed Tamil Medium	October Compressed Tamil Medium
+October Compressed Tamil Thin	October Compressed Tamil Thin
+October Condensed Devanagari	October Condensed Devanagari Bold
+October Condensed Devanagari	October Condensed Devanagari Regular
+October Condensed Devanagari Black	October Condensed Devanagari Black
+October Condensed Devanagari ExtraLight	October Condensed Devanagari ExtraLight
+October Condensed Devanagari Hairline	October Condensed Devanagari Hairline
+October Condensed Devanagari Heavy	October Condensed Devanagari Heavy
+October Condensed Devanagari Light	October Condensed Devanagari Light
+October Condensed Devanagari Medium	October Condensed Devanagari Medium
+October Condensed Devanagari Thin	October Condensed Devanagari Thin
+October Condensed Tamil	October Condensed Tamil Bold
+October Condensed Tamil	October Condensed Tamil Regular
+October Condensed Tamil Black	October Condensed Tamil Black
+October Condensed Tamil ExtraLight	October Condensed Tamil ExtraLight
+October Condensed Tamil Hairline	October Condensed Tamil Hairline
+October Condensed Tamil Heavy	October Condensed Tamil Heavy
+October Condensed Tamil Light	October Condensed Tamil Light
+October Condensed Tamil Medium	October Condensed Tamil Medium
+October Condensed Tamil Thin	October Condensed Tamil Thin
+October Devanagari	October Devanagari Bold
+October Devanagari	October Devanagari Regular
+October Devanagari Black	October Devanagari Black
+October Devanagari ExtraLight	October Devanagari ExtraLight
+October Devanagari Hairline	October Devanagari Hairline
+October Devanagari Heavy	October Devanagari Heavy
+October Devanagari Light	October Devanagari Light
+October Devanagari Medium	October Devanagari Medium
+October Devanagari Thin	October Devanagari Thin
+October Tamil	October Tamil Bold
+October Tamil	October Tamil Regular
+October Tamil Black	October Tamil Black
+October Tamil ExtraLight	October Tamil ExtraLight
+October Tamil Hairline	October Tamil Hairline
+October Tamil Heavy	October Tamil Heavy
+October Tamil Light	October Tamil Light
+October Tamil Medium	October Tamil Medium
+October Tamil Thin	October Tamil Thin
+Oriya MN	Oriya MN
+Oriya MN	Oriya MN Bold
+Oriya Sangam MN	Oriya Sangam MN
+Oriya Sangam MN	Oriya Sangam MN Bold
+Osaka	Osaka	Osaka
+Osaka	Osaka-Mono	Osaka−等幅
+PCMyungjo	PCMyungjo Regular	PC명조 일반체
+PSL Ornanong Pro	PSL Ornanong Pro
+PSL Ornanong Pro	PSL Ornanong Pro Bold
+PSL Ornanong Pro	PSL Ornanong Pro Bold Italic
+PSL Ornanong Pro	PSL Ornanong Pro Demibold
+PSL Ornanong Pro	PSL Ornanong Pro Demibold Italic
+PSL Ornanong Pro	PSL Ornanong Pro Italic
+PSL Ornanong Pro	PSL Ornanong Pro Light
+PSL Ornanong Pro	PSL Ornanong Pro Light Italic
+PT Mono	PT Mono
+PT Mono	PT Mono Bold
+PT Sans	PT Sans
+PT Sans	PT Sans Bold
+PT Sans	PT Sans Bold Italic
+PT Sans	PT Sans Italic
+PT Sans Caption	PT Sans Caption
+PT Sans Caption	PT Sans Caption Bold
+PT Sans Narrow	PT Sans Narrow
+PT Sans Narrow	PT Sans Narrow Bold
+PT Serif	PT Serif
+PT Serif	PT Serif Bold
+PT Serif	PT Serif Bold Italic
+PT Serif	PT Serif Italic
+PT Serif Caption	PT Serif Caption
+PT Serif Caption	PT Serif Caption Italic
+Phosphate	Phosphate Inline
+Phosphate	Phosphate Solid
+PilGi	PilGi Regular	필기체 Regular
+Plantagenet Cherokee	Plantagenet Cherokee
+PortagoITC TT	PortagoITC TT
+Princetown LET	Princetown LET
+Produkt	Produkt Extralight
+Produkt	Produkt Extralight Italic
+Produkt	Produkt Light
+Produkt	Produkt Light Italic
+Produkt	Produkt Medium
+Produkt	Produkt Medium Italic
+Produkt	Produkt Regular
+Produkt	Produkt Regular Italic
+Proxima Nova	Proxima Nova
+Proxima Nova	Proxima Nova Bold
+Proxima Nova	Proxima Nova Bold It
+Proxima Nova	Proxima Nova Extrabold
+Proxima Nova	Proxima Nova Extrabold It
+Proxima Nova	Proxima Nova It
+Proxima Nova	Proxima Nova Light
+Proxima Nova	Proxima Nova Light It
+Proxima Nova	Proxima Nova Medium
+Proxima Nova	Proxima Nova Medium It
+Proxima Nova	Proxima Nova Semibold
+Proxima Nova	Proxima Nova Semibold It
+Publico Headline	Publico Headline Black
+Publico Headline	Publico Headline Black Italic
+Publico Headline	Publico Headline Bold
+Publico Headline	Publico Headline Bold Italic
+Publico Headline	Publico Headline Italic
+Publico Headline	Publico Headline Roman
+Publico Text	Publico Text Bold
+Publico Text	Publico Text Bold Italic
+Publico Text	Publico Text Italic
+Publico Text	Publico Text Roman
+Publico Text	Publico Text Semibold
+Publico Text	Publico Text Semibold Italic
+Quotes Caps	Quotes Caps Regular
+Quotes Script	Quotes Script Regular
+Raanana	Raanana	רעננה
+Raanana	Raanana Bold	רעננה‭ ‬Bold
+Raya	Raya Regular	راية عادي
+STFangsong	STFangsong	华文仿宋	华文仿宋
+STHeiti	STHeiti	华文黑体	华文黑体
+STHeiti	STXihei	华文细黑	华文细黑
+STIX Two Math	STIX Two Math
+STIX Two Text	STIX Two Text
+STIX Two Text	STIX Two Text Bold
+STIX Two Text	STIX Two Text Bold Italic
+STIX Two Text	STIX Two Text Italic
+STKaiti	STKaiti	华文楷体	华文楷体
+STSong	STSong	华文宋体	华文宋体
+Sama Devanagari	Sama Devanagari Bold
+Sama Devanagari	Sama Devanagari Book
+Sama Devanagari	Sama Devanagari ExtraBold
+Sama Devanagari	Sama Devanagari Medium
+Sama Devanagari	Sama Devanagari Regular
+Sama Devanagari	Sama Devanagari SemiBold
+Sama Gujarati	Sama Gujarati Bold
+Sama Gujarati	Sama Gujarati Book
+Sama Gujarati	Sama Gujarati ExtraBold
+Sama Gujarati	Sama Gujarati Medium
+Sama Gujarati	Sama Gujarati Regular
+Sama Gujarati	Sama Gujarati SemiBold
+Sama Gurmukhi	Sama Gurmukhi Bold
+Sama Gurmukhi	Sama Gurmukhi Book
+Sama Gurmukhi	Sama Gurmukhi ExtraBold
+Sama Gurmukhi	Sama Gurmukhi Medium
+Sama Gurmukhi	Sama Gurmukhi Regular
+Sama Gurmukhi	Sama Gurmukhi SemiBold
+Sama Kannada	Sama Kannada Bold
+Sama Kannada	Sama Kannada Book
+Sama Kannada	Sama Kannada ExtraBold
+Sama Kannada	Sama Kannada Medium
+Sama Kannada	Sama Kannada Regular
+Sama Kannada	Sama Kannada SemiBold
+Sama Malayalam	Sama Malayalam Bold
+Sama Malayalam	Sama Malayalam Book
+Sama Malayalam	Sama Malayalam ExtraBold
+Sama Malayalam	Sama Malayalam Medium
+Sama Malayalam	Sama Malayalam Regular
+Sama Malayalam	Sama Malayalam SemiBold
+Sama Tamil	Sama Tamil Bold
+Sama Tamil	Sama Tamil Book
+Sama Tamil	Sama Tamil ExtraBold
+Sama Tamil	Sama Tamil Medium
+Sama Tamil	Sama Tamil Regular
+Sama Tamil	Sama Tamil SemiBold
+Sana	Sana Regular	صنعاء عادي
+Santa Fe LET	Santa Fe LET Plain:1.0
+Sathu	Sathu
+Sauber Script	Sauber Script
+SchoolHouse Cursive B	SchoolHouse Cursive B
+SchoolHouse Printed A	SchoolHouse Printed A
+Shobhika Bold	Shobhika Bold
+Shobhika Regular	Shobhika Regular
+Shree Devanagari 714	Shree Devanagari 714
+Shree Devanagari 714	Shree Devanagari 714 Bold
+Shree Devanagari 714	Shree Devanagari 714 Bold Italic
+Shree Devanagari 714	Shree Devanagari 714 Italic
+SignPainter-HouseScript	SignPainter-HouseScript
+Silom	Silom
+SimSong	SimSong Bold	简宋 粗体	簡宋 粗體
+SimSong	SimSong Regular	简宋 常规体	簡宋 標準體
+Sinhala MN	Sinhala MN
+Sinhala MN	Sinhala MN Bold
+Skia	Skia
+Somer	Somer Regular	سومر عادي
+Songti SC	Songti SC Black	宋体-简 黑体	宋體-簡 黑體
+Songti SC	Songti SC Bold	宋体-简 粗体	宋體-簡 粗體
+Songti SC	Songti SC Light	宋体-简 细体	宋體-簡 細體
+Songti SC	Songti SC Regular	宋体-简 常规体	宋體-簡 標準體
+Songti TC	Songti TC Bold	宋体-繁 粗体	宋體-繁 粗體
+Songti TC	Songti TC Light	宋体-繁 细体	宋體-繁 細體
+Songti TC	Songti TC Regular	宋体-繁 常规体	宋體-繁 標準體
+Spot Mono	Spot Mono Bold
+Spot Mono	Spot Mono Medium
+Spot Mono	Spot Mono Regular
+Stone Sans ITC TT	Stone Sans ITC TT Bold
+Stone Sans Sem ITC TT	Stone Sans Sem ITC TT Semi
+Stone Sans Sem ITC TT	Stone Sans Sem ITC TT SemiIta
+Sukhumvit Set	SukhumvitSet-Bold
+Sukhumvit Set	SukhumvitSet-Light
+Sukhumvit Set	SukhumvitSet-Medium
+Sukhumvit Set	SukhumvitSet-SemiBold
+Sukhumvit Set	SukhumvitSet-Text
+Sukhumvit Set	SukhumvitSet-Thin
+Synchro LET	Synchro LET
+Tahoma	Tahoma
+Tahoma	Tahoma Bold	Tahoma Negreta	Tahoma tučné	Tahoma fed	Tahoma Fett	Tahoma Έντονα	Tahoma Negrita	Tahoma Lihavoitu	Tahoma Gras	Tahoma Félkövér	Tahoma Grassetto	Tahoma Halvfet	Tahoma Vet	Tahoma Pogrubiony	Tahoma Negrito	Tahoma Полужирный	Tahoma Tučné	Tahoma Fet	Tahoma Kalın	Tahoma đậm
+Tamil MN	Tamil MN
+Tamil MN	Tamil MN Bold
+Tamil Sangam MN	Tamil Sangam MN Black
+Tamil Sangam MN	Tamil Sangam MN Demibold
+Tamil Sangam MN	Tamil Sangam MN Light
+Tamil Sangam MN	Tamil Sangam MN Medium
+Telugu MN	Telugu MN
+Telugu MN	Telugu MN Bold
+Telugu Sangam MN	Telugu Sangam MN
+Telugu Sangam MN	Telugu Sangam MN Bold
+Times	Times Bold	Times Fed	Times Fett	Times Negrita	Times lihava	Times Gras	Times grassetto	Times Halvfet	Times vet	Times Carregado	Times Fet
+Times	Times Bold Italic	Times Fed kursiv	Times Fett Kursiv	Times Negrita Cursiva	Times lihava kursiivi	Times Gras italique	Times grassetto corsivo	Times Halvfet kursiv	Times vet-cursief	Times Carregado Itálico	Times Fet Kursiv
+Times	Times Italic	Times kursiv	Times Kursiv	Times Cursiva	Times kursiivi	Times Italique	Times corsivo	Times kursiv	Times cursief	Times Itálico	Times Kursiv
+Times	Times Roman
+Tiro Bangla	Tiro Bangla
+Tiro Bangla	Tiro Bangla Italic
+Tiro Bangla	TiroBangla
+Tiro Devanagari Hindi	Tiro Devanagari Hindi
+Tiro Devanagari Hindi	Tiro Devanagari Hindi Italic
+Tiro Devanagari Marathi	Tiro Devanagari Marathi
+Tiro Devanagari Marathi	Tiro Devanagari Marathi Italic
+Tiro Devanagari Sanskrit	Tiro Devanagari Sanskrit
+Tiro Devanagari Sanskrit	Tiro Devanagari Sanskrit Italic
+Tiro Gurmukhi	Tiro Gurmukhi
+Tiro Gurmukhi	Tiro Gurmukhi Italic
+Tiro Gurmukhi	TiroGurmukhi
+Tiro Hindi	TiroHindi
+Tiro Kannada	Tiro Kannada
+Tiro Kannada	Tiro Kannada Italic
+Tiro Kannada	TiroKannada
+Tiro Marathi	TiroMarathi
+Tiro Sanskrit	TiroSanskrit
+Tiro Tamil	Tiro Tamil
+Tiro Tamil	Tiro Tamil Italic
+Tiro Tamil	TiroTamil
+Tiro Telugu	Tiro Telugu
+Tiro Telugu	Tiro Telugu Italic
+Tiro Telugu	TiroTelugu
+Toppan Bunkyu Gothic	Toppan Bunkyu Gothic Demibold	凸版文久ゴシック デミボールド
+Toppan Bunkyu Gothic	Toppan Bunkyu Gothic Regular	凸版文久ゴシック レギュラー
+Toppan Bunkyu Midashi Gothic	Toppan Bunkyu Midashi Gothic Extrabold	凸版文久見出しゴシック エクストラボールド
+Toppan Bunkyu Midashi Mincho	Toppan Bunkyu Midashi Mincho Extrabold	凸版文久見出し明朝 エクストラボールド
+Toppan Bunkyu Mincho	Toppan Bunkyu Mincho Regular	凸版文久明朝 レギュラー
+Trattatello	Trattatello
+Tsukushi A Round Gothic	Tsukushi A Round Gothic Bold	筑紫A丸ゴシック ボールド
+Tsukushi A Round Gothic	Tsukushi A Round Gothic Regular	筑紫A丸ゴシック レギュラー
+Tsukushi B Round Gothic	Tsukushi B Round Gothic Bold	筑紫B丸ゴシック ボールド
+Tsukushi B Round Gothic	Tsukushi B Round Gothic Regula	筑紫B丸ゴシック レギュラー
+Tw Cen MT	Tw Cen MT
+Tw Cen MT	Tw Cen MT Bold	Tw Cen MT Negreta	Tw Cen MT tučné	Tw Cen MT fed	Tw Cen MT Fett	Tw Cen MT Έντονα	Tw Cen MT Negrita	Tw Cen MT Lihavoitu	Tw Cen MT Gras	Tw Cen MT Félkövér	Tw Cen MT Grassetto	Tw Cen MT Halvfet	Tw Cen MT Vet	Tw Cen MT Pogrubiony	Tw Cen MT Negrito	Tw Cen MT Полужирный	Tw Cen MT Tučné	Tw Cen MT Fet	Tw Cen MT Kalın
+Tw Cen MT	Tw Cen MT Bold Italic	Tw Cen MT Negreta cursiva	Tw Cen MT tučné kurzíva	Tw Cen MT fed kursiv	Tw Cen MT Fett Kursiv	Tw Cen MT Έντονα Πλάγια	Tw Cen MT Negrita Cursiva	Tw Cen MT Lihavoitu Kursivoi	Tw Cen MT Gras Italique	Tw Cen MT Félkövér dőlt	Tw Cen MT Grassetto Corsivo	Tw Cen MT Halvfet Kursiv	Tw Cen MT Vet Cursief	Tw Cen MT Pogrubiona kursywa	Tw Cen MT Negrito Itálico	Tw Cen MT Полужирный Курсив	Tw Cen MT Tučné kurzíva	Tw Cen MT Fet Kursiv	Tw Cen MT Kalın İtalik
+Tw Cen MT	Tw Cen MT Italic	Tw Cen MT Cursiva	Tw Cen MT kurzíva	Tw Cen MT kursiv	Tw Cen MT Kursiv	Tw Cen MT Πλάγια	Tw Cen MT Cursiva	Tw Cen MT Kursivoitu	Tw Cen MT Italique	Tw Cen MT Dőlt	Tw Cen MT Corsivo	Tw Cen MT Kursiv	Tw Cen MT Cursief	Tw Cen MT Kursywa	Tw Cen MT Itálico	Tw Cen MT Курсив	Tw Cen MT Kurzíva	Tw Cen MT Kursiv	Tw Cen MT İtalik
+Type Embellishments One LET	Type Embellishments One LET Embellishments One LET Plain:1.0
+Waseem	Waseem Light	وسيم فاتح
+Waseem	Waseem Regular	وسيم عادي
+Wawati SC	Wawati SC Regular	娃娃体-简 常规体	娃娃體-簡 標準體
+Wawati TC	Wawati TC Regular	娃娃体-繁 常规体	娃娃體-繁 標準體
+Webdings	Webdings
+Weibei SC	Weibei SC Bold	魏碑-简 粗体	魏碑-簡 粗體
+Weibei TC	Weibei TC Bold	魏碑-繁 粗体	魏碑-繁 粗體
+Wingdings	Wingdings
+Wingdings 2	Wingdings 2
+Wingdings 3	Wingdings 3
+Xingkai SC	Xingkai SC Bold	行楷-简 粗体	行楷-簡 粗體
+Xingkai SC	Xingkai SC Light	行楷-简 细体	行楷-簡 細體
+Xingkai TC	Xingkai TC Bold	行楷-繁 粗体	行楷-繁 粗體
+Xingkai TC	Xingkai TC Light	行楷-繁 细体	行楷-繁 細體
+Yaziji	Yaziji Regular	اليازجي عادي
+YuGothic	YuGothic Bold	游ゴシック体 ボールド
+YuGothic	YuGothic Medium	游ゴシック体 ミディアム
+YuKyokasho	YuKyokasho Bold	游教科書体 ボールド
+YuKyokasho	YuKyokasho Medium	游教科書体 ミディアム
+YuKyokasho Yoko	YuKyokasho Yoko Bold	游教科書体 横用 ボールド
+YuKyokasho Yoko	YuKyokasho Yoko Medium	游教科書体 横用 ミディアム
+YuMincho	YuMincho Demibold	游明朝体 デミボールド
+YuMincho	YuMincho Extrabold	游明朝体 エクストラボールド
+YuMincho	YuMincho Medium	游明朝体 ミディアム
+YuMincho +36p Kana	YuMincho +36p Kana Demibold	游明朝体+36ポかな デミボールド
+YuMincho +36p Kana	YuMincho +36p Kana Extrabold	游明朝体+36ポかな エクストラボールド
+YuMincho +36p Kana	YuMincho +36p Kana Medium	游明朝体+36ポかな ミディアム
+Yuanti SC	Yuanti SC Bold	圆体-简 粗体	圓體-簡 粗體
+Yuanti SC	Yuanti SC Light	圆体-简 细体	圓體-簡 細體
+Yuanti SC	Yuanti SC Regular	圆体-简 常规体	圓體-簡 標準體
+Yuanti TC	Yuanti TC Bold	圆体-繁 粗体	圓體-繁 粗體
+Yuanti TC	Yuanti TC Light	圆体-繁 细体	圓體-繁 細體
+Yuanti TC	Yuanti TC Regular	圆体-繁 常规体	圓體-繁 標準體
+Yuppy SC	Yuppy SC Regular	雅痞-简 常规体	雅痞-簡 標準體
+Yuppy TC	Yuppy TC Regular	雅痞-繁 常规体	雅痞-繁 標準體
+Zawra	Zawra Bold	الزوراء عريض
+Zawra	Zawra Heavy	الزوراء كثيف
