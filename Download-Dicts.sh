@@ -22,9 +22,9 @@ download() (
          --fail-early --connect-timeout 5 \
          --user-agent '' --location "$@" \
          || {
-      cont=1
-      continue
-    }
+              cont=1
+              continue
+            }
     return 0
   done
   return 1
@@ -52,7 +52,7 @@ if ! [ -e "${data_xml}" ]; then
   if [ -e "${XML_FILE}" ]; then
     cp "${XML_FILE}" "${data_xml}"
   else
-    download -o "${data_xml}" "${xml_url}" || die "download failed: ${xml_url}"
+    download -o "${data_xml}" "${XML_URL}" || die "download failed: ${XML_URL}"
   fi
 fi
 
