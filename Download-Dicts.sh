@@ -1,10 +1,6 @@
 #!/bin/sh
 
-set -euf
-
-TAB='	'
-unset -v IFS
-export LC_ALL=C
+set -euf; unset -v IFS; export LC_ALL=C
 
 echo() {
   printf '[TASK] %s\n' "$*"
@@ -12,6 +8,25 @@ echo() {
 die() {
   printf '[ERROR] %s\n' "$*" >&2
   exit 1
+}
+
+TAB='	'
+tsv_read() {
+  # See https://github.com/jakwings/shellcard
+  # XXX(performance): tsv_read x x x; tsv_read 2 3 4; tsv_read -r x=y
+  IFS='' read -r ${1+"$@"} || return 1
+  while [ 1 -lt "$#" ]; do
+    eval "
+      case \"\${$1}\" in
+        (*'${TAB}'*)
+          $2=\"\${$1#*\"${TAB}\"}\"
+          $1=\"\${$1%%\"${TAB}\"*}\"
+          shift
+          ;;
+        (*) false
+      esac
+    " || break
+  done
 }
 
 download() (
@@ -61,7 +76,7 @@ xsltproc --nonet --path "${SCRIPT_DIR}/utils" \
          "${data_xsl}" "${data_xml}" >"${data_tsv}"
 
 # fetch and extract asset data
-while IFS="${TAB}" read -r vers size algo hash base path bundle name _; do
+while tsv_read vers size algo hash base path bundle name _; do
   if [ "${VERSION}" -ne "${vers}" ]; then
     continue
   fi
