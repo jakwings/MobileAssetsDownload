@@ -14,7 +14,7 @@ TAB='	'
 tsv_read() {
   # See https://github.com/jakwings/shellcard
   # XXX(performance): tsv_read x x x; tsv_read 2 3 4; tsv_read -r x=y
-  IFS='' read -r ${1+"$@"} || return 1
+  IFS='' read -r ${1+"$@"} || return
   while [ 1 -lt "$#" ]; do
     eval "
       case \"\${$1}\" in
@@ -67,7 +67,8 @@ if ! [ -e "${data_xml}" ]; then
   if [ -e "${XML_FILE}" ]; then
     cp "${XML_FILE}" "${data_xml}"
   else
-    download -o "${data_xml}" "${XML_URL}" || die "download failed: ${XML_URL}"
+    _="$(download -o "${data_xml}" "${XML_URL}" >&2)" \
+      || die "download failed: ${XML_URL}"
   fi
 fi
 
@@ -77,7 +78,7 @@ xsltproc --nonet --path "${SCRIPT_DIR}/utils" \
 
 # fetch and extract asset data
 while tsv_read vers size algo hash base path bundle name _; do
-  if [ "${VERSION}" -ne "${vers}" ]; then
+  if [ x"${vers}" != x"${VERSION}" ]; then
     continue
   fi
   echo "Fetching asset: ${name}"
@@ -92,11 +93,13 @@ while tsv_read vers size algo hash base path bundle name _; do
     url="https://updates${url#'http://updates-http'}"
   esac
   if ! [ -e "${zipball}" ]; then
-    download -o "${zipball}" "${url}" || die "download failed: ${name}"
+    _="$(download -o "${zipball}" "${url}" >&2)" \
+      || die "download failed: ${name}"
   else
     _size="$(wc -c <"${zipball}")"
     if [ "${_size}" -ne "${size}" ]; then
-      download -C - -o "${zipball}" "${url}" || die "download failed: ${name}"
+      _="$(download -C - -o "${zipball}" "${url}" >&2)" \
+        || die "download failed: ${name}"
     fi
   fi
   case "${algo}" in
@@ -110,9 +113,16 @@ while tsv_read vers size algo hash base path bundle name _; do
   unzip -q -o -d "${DATA_DIR}/${asset}" "${zipball}"
 done <"${data_tsv}"
 
-# install assets (run "csrutil disable" in recovery mode first!)
-set +f
-echo "Installing assets to \"${XML_DIR}\""
-sudo chown -R _nsurlsessiond:_nsurlsessiond "${DATA_DIR}"/*.asset
-sudo mv -v "${DATA_DIR}"/*.asset "${XML_DIR}"
-echo 'Done!'
+# Install Dictionaries
+# 1. Run "csrutil disable" in Recovery Mode first!
+# 2. This!
+# 3. Run "csrutil enable" again if you don't know what you are doing!
+printf 'Installing assets to "%s" ? [y/N] ' "${XML_DIR}" >&2
+if read -r answer && ! case "${answer}" in ([yY]*) false; esac; then
+  set +f
+  sudo chown -R _nsurlsessiond:_nsurlsessiond "${DATA_DIR}"/*.asset
+  sudo mv -v "${DATA_DIR}"/*.asset "${XML_DIR}"
+  echo 'Done!'
+else
+  echo 'Canceled.'
+fi

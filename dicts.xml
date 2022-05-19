@@ -11622,7 +11622,7 @@
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>US</string>
@@ -11648,33 +11648,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>22</integer>
+			<integer>24</integer>
 			<key>_DownloadSize</key>
-			<integer>5838981</integer>
+			<integer>5852960</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			0H3fuu21pkd1kppgU2IS6muYjQo=
+			oE21XguS96zGXdkhPilIM0sG2N8=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
-			<integer>37427200</integer>
+			<integer>37029888</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/50b2be936095e90903902347e038f45da0482048.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/c49d36dc042228ef6753e01cc04636acd0c13bec.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>AE</string>
@@ -11733,34 +11733,34 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			HzFpZlDO0E0C/vlJpw5tn6LwpJI=
+			abgVbAxud1jFTge9rS8BPSEpKTE=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>11923456</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/87b1ea36f96ab80a3d8fc643f5b9586ec09c84ea.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/75b17e5b0630d14a4079a85b67672c87e51540f6.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>HK</string>
 				<string>MO</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>英譯廣東口語詞典 A Dictionary of Cantonese Colloquialisms in English&lt;br/&gt;Copyright © 2013, 2020, Commercial Press, under license to Oxford University Press. All rights reserved.</string>
+			<string>英譯廣東口語詞典 A Dictionary of Cantonese Colloquialisms in English&lt;br/&gt;Copyright © 2013, 2021, Commercial Press, under license to Oxford University Press. All rights reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.yue-en.cp</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -11783,33 +11783,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>6</integer>
+			<integer>8</integer>
 			<key>_DownloadSize</key>
-			<integer>629344</integer>
+			<integer>629699</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			TALsm7U+dEFpmWA+pNz4qk+4U0o=
+			f6pudVCF8yw6ckPr+Kg6HKMJxuw=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>1294336</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/daacda968e33942adda0afdfb63a1073dc423184.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/6df352be0493bf852b771792557f21a5777e7058.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>DK</string>
@@ -11843,27 +11843,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			VFgty8PAiTRlXcLrpCtw7C/HYSU=
+			g46iXsCEBes2MRsP/4riGUL7oYo=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>16416768</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/6bea33505035a9e7c66e1c8e1a0fd375742f4974.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/99eaa73daf6fc0a7bb98729688d1a79c51a68d68.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>NL</string>
@@ -11899,27 +11899,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			iAPWUEiVePOE4og46ftqwQiOLg0=
+			liRAvONCVxHoiGt/P9gErpWKlmk=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>16662528</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/ed2661d3df8e44c068250f1817b7caf050ece1cb.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/1f26f5be20d42d8015d361008569be19756525d7.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>NL</string>
@@ -11954,27 +11954,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			CtwSc57VlqCUdZ12G0HP/31RnRE=
+			yB8T261cskz8hL/bjfRwfwUR6No=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>15843328</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/dc873ed9bcf28fb197ac2a35f8195e419cb6c086.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/2e87aab443a8e6f1ea5a442d6ac72aa8b93f049a.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>FR</string>
@@ -11984,7 +11984,7 @@
 				<string>MC</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>Oxford-Hachette French Dictionary&lt;br/&gt;Copyright © 2007, 2020 Oxford University Press &amp; Hachette Livre. All rights reserved.</string>
+			<string>Oxford-Hachette French Dictionary&lt;br/&gt;Copyright © 2007, 2021 Oxford University Press &amp; Hachette Livre. All rights reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.OxfordFrench</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -12007,33 +12007,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>16</integer>
+			<integer>18</integer>
 			<key>_DownloadSize</key>
-			<integer>24104358</integer>
+			<integer>24283412</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			VivXNzR5s+7CGkfMduW1kXGrVNM=
+			IKI5SPvVfVrJ4M0MDxeNI1m01Zk=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
-			<integer>29798400</integer>
+			<integer>30191616</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/2ef29589eb29111125af0c0345d74473f0856a34.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/bdb0d2c0ced9660856211ba05940e18afe8b4681.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>FR</string>
@@ -12074,27 +12074,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			cxMmoc4yFpxg+4Nfkf8CoyBN5LQ=
+			E0fGfpG94w+IvsVpzWFAXzevQ+0=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>32534528</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/7d100dfaae6cc6583a1efa9dc6e7507e35d69933.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/8f1099975136af1847e8948554392497105f5d2f.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>FR</string>
@@ -12131,27 +12131,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			CGqvS7LZ+aDeEYre6n5Q2Cnfg0E=
+			jMjU5Emai9KJDQ4KR0JYVPqL4oc=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>14237696</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/f0b7bc8b5fffb813a7b545452543f6c4451355ad.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/02b728e6a0a5d153da432b5db79d822d609a91b1.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>DE</string>
@@ -12162,7 +12162,7 @@
 				<string>LU</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>Oxford German Dictionary&lt;br/&gt;Copyright © 2008, 2020 Oxford University Press. All rights reserved.</string>
+			<string>Oxford German Dictionary&lt;br/&gt;Copyright © 2008, 2021 Oxford University Press. All rights reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.OxfordGerman</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -12185,33 +12185,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>15</integer>
+			<integer>17</integer>
 			<key>_DownloadSize</key>
-			<integer>31129160</integer>
+			<integer>31261630</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			sK1L19piFQTqfZn7WvAy1JT1IFI=
+			jRxz0hyHH/FOKJJzgPDQH6upyTQ=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
-			<integer>47050752</integer>
+			<integer>47173632</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/69166a2a7316da2e9c276540a1f8c43c5f03ce40.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/0c247d541a5a54cc5db9ec9986c030fad7ff8d68.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>DE</string>
@@ -12250,33 +12250,33 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			XxAAjjd6OJE/VXgxBe+1Kwy5Jsk=
+			Q/zYXXENPVvbvTRiL//p3oNAWIM=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>105439232</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/f62d81fa109f202b632b3207ebd800acf0bc336b.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/042d1597efc5496b1edd5c1f79067445d535f777.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>IN</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>Gujarati Lexicon English–Gujarati / Gujarati–English Dictionaries&lt;br/&gt;Copyright © 2006, 2020 Gujarati Lexicon/Oxford University Press, All rights reserved.</string>
+			<string>Gujarati Lexicon English–Gujarati / Gujarati–English Dictionaries&lt;br/&gt;Copyright © 2006, 2021 Gujarati Lexicon/Oxford University Press, All rights reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.gu-en.oup</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -12299,33 +12299,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>2</integer>
+			<integer>3</integer>
 			<key>_DownloadSize</key>
-			<integer>9566163</integer>
+			<integer>9566000</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			yp5K6dtxJvZWeqgAohKG6L7fZMw=
+			xUebI9lr+h7wvaMN91IOR0Ot+gk=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
-			<integer>11771904</integer>
+			<integer>11747328</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/e487052329dbe1fdaecc49e91cdc0078522e9436.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/164a582bbba4693de79f67edfa74730a44412208.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>IL</string>
@@ -12359,27 +12359,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			uW9GmVoQv/cZp5OThQba+rICqUg=
+			cPmgf5ZE1hyvQxbTvlmztdiERfc=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>20881408</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/8dc86ea722b21ef7ec4152f510bcef80352d7365.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/7fc8facadde877b791b73ced82629b6910a4b779.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>IN</string>
@@ -12414,33 +12414,33 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			nbLKIA2eGO9PNNRtZTOr63T6qaI=
+			P8q+SSXS24fT1Ow7b6Zy0utuNi4=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>17924096</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/ee9703469dd592d973cd7ca43a6f3a29125f1186.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/1c97972b628ffb990e3b12bca8b14ec037d6d59a.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>IN</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>राजपाल हिन्दी शब्दकोश / Rajpal Hindi Dictionary&lt;br/&gt;Copyright © 2011, 2020 Rajpal &amp; Sons, under licence to Oxford University Press. All rights reserved.</string>
+			<string>राजपाल हिन्दी शब्दकोश / Rajpal Hindi Dictionary&lt;br/&gt;Copyright © 2011, 2021 Rajpal &amp; Sons, under licence to Oxford University Press. All rights reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.hi.oup</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -12462,33 +12462,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>17</integer>
+			<integer>18</integer>
 			<key>_DownloadSize</key>
-			<integer>8172793</integer>
+			<integer>8172589</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			vYS0zVUhAjuchlDJzS+/1r50WwA=
+			qKMDePLqv+phq0tGWzXdJOaB3XI=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>10141696</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/9987b36be18e8b0ca685b28ce2ca758f29241f1b.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/bd326cffaef3ae060e8c90d59a04ac5d26a72b71.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>ID</string>
@@ -12523,33 +12523,33 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			Btq//IfSxvPt3JXKD24tFJZyw9o=
+			V2CoNfpJaezkH2z8OD9ip3tyokE=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>3256320</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/33e1da44f56c725505a3a6712bac01967bcdfd60.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/c1e14e290a361b157855c869b972757f5e44397c.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>IT</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>Oxford Paravia Il Dizionario inglese - italiano/italiano - inglese / Oxford - Paravia Italian Dictionary&lt;br/&gt;Copyright © 2010, 2020 Oxford-Paravia Italian Dictionary, Pearson Italia, Milano - Torino, and Oxford University Press.  All rights reserved.</string>
+			<string>Oxford Paravia Il Dizionario inglese - italiano/italiano - inglese / Oxford - Paravia Italian Dictionary&lt;br/&gt;Copyright © 2010, 2021 Oxford-Paravia Italian Dictionary, Pearson Italia, Milano - Torino, and Oxford University Press.  All rights reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.OxfordItalian</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -12572,33 +12572,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>11</integer>
+			<integer>13</integer>
 			<key>_DownloadSize</key>
-			<integer>29392376</integer>
+			<integer>29590900</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			ASIEwAHm3Pur6T/mxk22wYR+87I=
+			ggT9NAqEAOCXnRTxsAJ75e9jJ/g=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
-			<integer>36524032</integer>
+			<integer>36704256</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/94bac4a1101298d77f299c34b40a509a44f15d49.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/a7912a68a8a0d01cff16a7735a4155131d25c669.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>IT</string>
@@ -12632,27 +12632,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			Cha5G0uYlY/bZs5JBLAybFo2T24=
+			hbVsmTQUDUB9XgDmveEVovdEwv4=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>33763328</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/48d431a8404acb9d6eac69cf3fa55c0b188363c1.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/bad4a5c5bf10a2dd135a07d7ad7b28e23d0aa7dd.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>JP</string>
@@ -12687,27 +12687,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			KlkPwh8ZKnu1Y86i8WIb6F0KG7Y=
+			IVxj2xch5++RX1/wNVQ5CzfFDvA=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>48619520</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/41bffe8973639bdf0157d95998be9a2747d59bdf.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/b3bf6ae48c39f29f7ca1b7410a60eece625c5fc3.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>JP</string>
@@ -12741,27 +12741,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			51rQbdfHe6R5Qvx68KG38eZ5ts4=
+			796R1ZeJPsdOGT0V5Q+hf/DaG0c=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>100613120</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/c0057096425eea1a9f9437c0b94ea36278f450be.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/3205e4fbbd04835ae26259d82b90d78b5d7d94a2.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>KO</string>
@@ -12796,27 +12796,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			uvXJMmmHgFnSvGPeY1aiy3j6DJY=
+			DJC+vtx0/ZJlSAdQa0GrZ/zLO7Q=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>60309504</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/474ddfe78578394514ada846d63b3e665d26ab3d.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/b54d4b8a7a225005695bc65e44e54a8f78af6f21.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>KO</string>
@@ -12850,27 +12850,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			QpfRHDbPZlAihPsr8nuCmHjHe5g=
+			QzZfo+RZtXcUUX3NIu2/zK+PUOw=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>89317376</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/523206ba68c2f6d14316d3ec9922b8a728dc044a.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/a03292d797989f913ee0bdf40bfccc4e0d55c056.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>NO</string>
@@ -12904,27 +12904,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			5r4vWniIjXRzjtTg/yLDpCwJYxg=
+			o4Ly+59/BcE+OlbYsd6knXkX7zM=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>15413248</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/53f038a4c5cc41d20ab12007df55e28dc90d307f.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/a1f0acc93a96289277474e1f4d8b9664ec84f463.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>US</string>
@@ -12953,33 +12953,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>23</integer>
+			<integer>26</integer>
 			<key>_DownloadSize</key>
-			<integer>33910256</integer>
+			<integer>33710716</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			/SeUEzSI0pqjeW/iNU0YDJ2J0fU=
+			DWVWVigYg8B8S2snXnuYtVa8bWk=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
-			<integer>38605824</integer>
+			<integer>38368256</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/02fd264982999564da80bb158d2a343eabc5b472.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/7e66d0bf940535a6ed4e0b6b29b6879cecc18477.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>US</string>
@@ -13008,33 +13008,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>21</integer>
+			<integer>25</integer>
 			<key>_DownloadSize</key>
-			<integer>6830386</integer>
+			<integer>6830220</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			kcGnJE9zYUMEMRoI7hREmqa88QM=
+			9PwypbDNP8STklHR9OeBHhBVcL0=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>7817216</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/956082156af1e61c19bc694f6510cd838984ce06.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/c44a79f82ee4b603475fab69c6f05ba14cd6c06c.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>GB</string>
@@ -13064,33 +13064,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>23</integer>
+			<integer>26</integer>
 			<key>_DownloadSize</key>
-			<integer>34003713</integer>
+			<integer>34116035</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			lSNXwxWqh1u4IuuiC926jpco2s0=
+			+Qj224PqrK3OEi3ASKEU+w+JPsA=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
-			<integer>38798336</integer>
+			<integer>38814720</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/1588b41f0f38974224dfe4942c0156745cc76262.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/691342e919a43780131154ea889de5d61bc35267.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>GB</string>
@@ -13120,33 +13120,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>21</integer>
+			<integer>25</integer>
 			<key>_DownloadSize</key>
-			<integer>6857583</integer>
+			<integer>6857607</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			Ugsq80MXciEX4rf29Bl8vNgRRUo=
+			znFTGP4n+dGr1cAKKXJgIWrouiY=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>7845888</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/f69f730cd4f0c341210775e5182fbd2fe2ce52dc.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/a7b588e190e5935e7fe4b7c3bbcf2b0d279c5cb6.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>PL</string>
@@ -13181,34 +13181,34 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			K6YJvoAhpBhC3ob+zS5Qz+J4yRs=
+			oM8E6G99JiuFs8utaTGVdBnPEUM=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>25481216</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/ec28cf38ec834cc9c712ee512fa84212b98f8e63.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/1e285b5513d92589bae48049bd7636fb9c064a7f.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>PT</string>
 				<string>BR</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>Oxford Portuguese Dictionary&lt;br/&gt;Copyright © 2015, 2020 by Oxford University Press. All rights reserved.</string>
+			<string>Oxford Portuguese Dictionary&lt;br/&gt;Copyright © 2015, 2021 by Oxford University Press. All rights reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.pt-en.oup</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -13231,33 +13231,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>15</integer>
+			<integer>17</integer>
 			<key>_DownloadSize</key>
-			<integer>17950229</integer>
+			<integer>18122016</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			llExc0Y1bQqVMxbAIaWduhqQ9BY=
+			FGGQvsvRQ8uKWc4czTafkqqz4j4=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
-			<integer>21610496</integer>
+			<integer>21696512</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/7f8f27e5e8cb2e16be6bb75fc43bbb44e68e742a.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/1923cbd4c886d3d6fb1a2b975f868546aae81d8b.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>PT</string>
@@ -13286,39 +13286,39 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>19</integer>
+			<integer>20</integer>
 			<key>_DownloadSize</key>
-			<integer>28954711</integer>
+			<integer>28941148</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			SwhwhEAxmomtJJMzOkjFDZTp2lg=
+			MiAHFmFrJCfWRKq4137u8UaRBow=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
-			<integer>33468416</integer>
+			<integer>33443840</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/1c3157476a7813b40a2f2d40f523c7f418c961d9.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/2d5c2ac20ac54dfa5feeda0e34021d49c53a1974.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>RU</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>Oxford Russian Dictionary&lt;br/&gt;Copyright © 2000, 2020 by Oxford University Press. All rights reserved.</string>
+			<string>Oxford Russian Dictionary&lt;br/&gt;Copyright © 2000, 2021 by Oxford University Press. All rights reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.OxfordRussian</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -13341,39 +13341,39 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>16</integer>
+			<integer>18</integer>
 			<key>_DownloadSize</key>
-			<integer>17127002</integer>
+			<integer>17297542</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			0X/u/YMH7t8BE8iYEdQTCR8T8VE=
+			OltsP9efcXfebzxGa07AvQaxsYc=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
-			<integer>22609920</integer>
+			<integer>22847488</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/e4e24e8ba21bfcf47a3e7932bdd1fce042690d64.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/115066c0d6b0299abeddc4708dcd0e5dc1cc65f0.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>RU</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>С. И. Ожегов «Толковый словарь русского языка» / S.I. Ojegov: Explanatory Dictionary of the Russian Language&lt;br/&gt;Copyright © 2012, 2019 "Universe and Education" Publishing House Ltd., under licence to Oxford University Press. All rights reserved.</string>
+			<string>С. И. Ожегов «Толковый словарь русского языка» / S.I. Ojegov: Explanatory Dictionary of the Russian Language&lt;br/&gt;Copyright © 2012, 2021 "Universe and Education" Publishing House Ltd., under licence to Oxford University Press. All rights reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.ru.oup</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -13395,39 +13395,39 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>16</integer>
+			<integer>18</integer>
 			<key>_DownloadSize</key>
-			<integer>11533823</integer>
+			<integer>11541868</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			0RzzYS7hygbRdCA3LCtZn65woiE=
+			1M4c1gQ2NDdot2ckj5m3t/1HWF4=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>16076800</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/7d876cf04eb861ca6a5869b21e2f9f9178f20f8a.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/0aaccc5c84ddf27fdd564d6caff28e4bd3f590d6.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>CN</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>牛津英汉汉英词典 / Oxford Chinese Dictionary&lt;br/&gt;Copyright © 2010, 2020 Oxford University Press and Foreign Language Teaching and Research Publishing Co., Ltd. All rights reserved.</string>
+			<string>牛津英汉汉英词典 / Oxford Chinese Dictionary&lt;br/&gt;Copyright © 2010, 2021 Oxford University Press and Foreign Language Teaching and Research Publishing Co., Ltd. All rights reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.zh_CN-en.OCD</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -13450,39 +13450,39 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>16</integer>
+			<integer>18</integer>
 			<key>_DownloadSize</key>
-			<integer>31631698</integer>
+			<integer>31832610</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			Xwn4z5vUjMdaQzE8IDiCWPXPLgY=
+			zKLAd+U3KJmQEE9UUrCwPcawAY8=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>37109760</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/b957f51e46e12d12d7765ce6a3ad1e2171e3e405.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/eac90eac9f940835601d5789521a32421b881222.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>CN</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>商務成語大詞典 Commercial Idiom Dictionary&lt;br/&gt;Copyright © 2010, 2020, Commercial Press, under licence to Oxford University Press. All rights reserved.</string>
+			<string>商務成語大詞典 Commercial Idiom Dictionary&lt;br/&gt;Copyright © 2010, 2021, Commercial Press, under licence to Oxford University Press. All rights reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.zh_CN.idioms</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -13504,33 +13504,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>8</integer>
+			<integer>9</integer>
 			<key>_DownloadSize</key>
-			<integer>4340948</integer>
+			<integer>4339534</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			HblQv4gfV9+O0TGGN+h2jVHASDo=
+			uq21B4YyRUZRzDa77clx9rVpDnE=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
-			<integer>5365760</integer>
+			<integer>5521408</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/da9b2c311fefa0494c4aa44697711e0d61e96280.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/44cf8c5648d65701550f43035a2aefd32af91672.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>JP</string>
@@ -13564,27 +13564,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			Z6JXy7Xszw5Y1YoM07Vd52wMvss=
+			dyZ82hG5zJweNpC1KD3An7bTy7M=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>37699584</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/459a152fbca9241102f63cac865296df99a94680.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/b79a814243f34d517f0052b4148ce236bc20829c.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>CN</string>
@@ -13618,33 +13618,33 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			yXMwPZpA2AtBwcBuSr/ajxy5sVw=
+			DCJed6lIMRd0bWmKyYPtoin0MUk=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>19226624</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/a0142b8c3c91821d58dbc68e3dc0e884d18c6902.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/5214bfe1c3cbeb5d252da896af1e9c6df405ad1e.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>CN</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>Mandarin Simplified Chinese 现代汉语同义词典 Modern Thesaurus/Synonyms &amp; Antonyms&lt;br/&gt;Copyright © 2009, 2020 Shanghai Lexicographical Publishing House, under licence to Oxford University Press. All Rights Reserved.</string>
+			<string>Mandarin Simplified Chinese 现代汉语同义词典 Modern Thesaurus/Synonyms &amp; Antonyms&lt;br/&gt;Copyright © 2009, 2021 Shanghai Lexicographical Publishing House, under licence to Oxford University Press. All Rights Reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.zh_CN.thes</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -13666,33 +13666,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>4</integer>
+			<integer>5</integer>
 			<key>_DownloadSize</key>
-			<integer>849537</integer>
+			<integer>848917</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			qE/aS0M4y5Fg+bNa2cbTh76vHrc=
+			4v4qipPgt7lsH683wig6K41KtS4=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>1490944</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/92ae17403a35338e7f42c6c1d4c89685f951bf4a.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/22bc234894fe6e062ceee57a6f236131b84b8d24.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>ES</string>
@@ -13722,33 +13722,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>18</integer>
+			<integer>19</integer>
 			<key>_DownloadSize</key>
-			<integer>26001892</integer>
+			<integer>26033068</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			frxOrGg2lA8jqdyfrjgi2nvWu1Y=
+			4Z+kXJGPgwc3jQu8MlvZBN0i7vM=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
-			<integer>32931840</integer>
+			<integer>33161216</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/93bb4062a7447a4599df4f6e650fa82b8a96033c.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/0cab8989af7642f18332cfdc038d97017d28586a.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>ES</string>
@@ -13783,27 +13783,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			/Tq2kXonzkvs3DO/8vuS6K0lM1E=
+			SGWJWvR3/IwAXPZSoxwIDSqysdM=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>26273792</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/dc696cbe0cc9ef1f70e36876eec056d8deb6a476.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/2e69f8d3f393865f0d15066e7c1e2231fb3f606a.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>SE</string>
@@ -13837,33 +13837,33 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			z4pU22mpSNsg1SidkUjArXfLii4=
+			b/xgYsMJiizVvxVWRA6DmV7BTWA=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>18374656</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/0c02661cf4a81204ffa4c110b1067fa116233bcf.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/fe02f2710bf27b448252af0823d80b4833aaffd3.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>IN</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>Oxford Tamil–Tamil–English Dictionaries&lt;br/&gt;Oxford University Press, India, 2008, 2020. All rights reserved.&lt;br/&gt;&lt;br/&gt;Oxford English–English–Tamil Dictionaries&lt;br/&gt;Oxford University Press, India, 2008, 2020. All rights reserved.</string>
+			<string>Oxford Tamil-Tamil-English Dictionaries&lt;br/&gt;Copyright © Oxford University Press, India, 2008, 2021. All rights reserved.&lt;br/&gt;&lt;br/&gt;Oxford English-English-Tamil Dictionaries&lt;br/&gt;Copyright © Oxford University Press, India, 2008, 2020. All rights reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.ta-en.oup</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -13886,39 +13886,39 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>4</integer>
+			<integer>5</integer>
 			<key>_DownloadSize</key>
-			<integer>10271804</integer>
+			<integer>10289078</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			E/f0d87/fWhPMgWwEVBL097qtm8=
+			IWgJvkw/tckdrCk55Z6n2YngKM0=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
-			<integer>11841536</integer>
+			<integer>11767808</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/140aae7ed1a93c281b282938d7bccbe91d1c8eb0.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/42b061ad70ee1c6a3b589696cf5ad73f85baeae2.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>IN</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>Oxford English–English–Telugu / Telugu–English Dictionaries&lt;br/&gt;Oxford University Press, India, 1997. All rights reserved.&lt;br/&gt;&lt;br/&gt;Oxford English–English–Telugu / Telugu–English Dictionaries&lt;br/&gt;Oxford University Press, India, 2005. All rights reserved.</string>
+			<string>Oxford English-English-Telugu Dictionary &lt;br/&gt;Copyright © Oxford University Press, India, 2005, 2021. All rights reserved.&lt;br/&gt;&lt;br/&gt;Oxford Telugu-English Dictionary &lt;br/&gt;Copyright © Oxford University Press, India, 1997, 2021. All rights reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.te-en.oup</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -13941,33 +13941,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>5</integer>
+			<integer>6</integer>
 			<key>_DownloadSize</key>
-			<integer>7829196</integer>
+			<integer>7825120</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			mVjCI27X6XEBFnVWUuTMqBkrO6g=
+			vVedOCQ44MvXCtbbSnWf9AsEARM=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
-			<integer>9248768</integer>
+			<integer>9211904</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/2b4f526503522552ee82903a2e59a7ef745792bc.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/de1e412b281a4a5bb3150631824111ed8d602180.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>TH</string>
@@ -14002,27 +14002,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			GyZoPKKH36TO9LC7/4soINurj+M=
+			L3858Egy96DqhF44EgBnSH3U3zQ=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>10424320</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/f658382c99ae942893e41cf1707989bc97b7e48b.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/0458ac4166f4fd68ee1272e9e2a7fd55b23e2097.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>TH</string>
@@ -14056,34 +14056,34 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			mI/A+Kw/kEUEZTE6/u5qjopPaGQ=
+			iSHaJak8wq+Qb2CM5R3jPHCL7As=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>5795840</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/514760a29ae4d96d9543015e537b214a14613875.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/a347f4cf65beb02de8b56f46c1a555a331e8fc69.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>HK</string>
 				<string>MO</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>商務新詞典 全新版 Commercial New Dictionary for common word or character&lt;br/&gt;Copyright © 2008, 2020, Commercial Press, under license to Oxford University Press. All rights reserved.</string>
+			<string>商務新詞典 全新版 Commercial New Dictionary for common word or character&lt;br/&gt;Copyright © 2008, 2021, Commercial Press, under license to Oxford University Press. All rights reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.zh_HK.common</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -14105,33 +14105,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>12</integer>
+			<integer>13</integer>
 			<key>_DownloadSize</key>
-			<integer>5943734</integer>
+			<integer>5943609</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			Y/XF8gzCkB2ke/sWZlVT4h6b0BU=
+			0bj0N3OkK9Nv5I6WFWIHV48TBvU=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>7454720</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/d72960851aaafe982a0d72e179cc728d5aa1c5a1.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/bc191d1fe7f436a59115eadb7d67355331b68be5.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>TW</string>
@@ -14166,34 +14166,34 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			m3LZlPjX/5xl6yBEW4gqCjkISTE=
+			5fo6BT6iT1/37HzVK0y9PX/qSmE=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>27533312</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/40c48f5b5c6b15a4b13adef364a888837aa5a196.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/b2c41b36a3317ce4ccccb0ebf676fc6a5f2c658a.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>TW</string>
 				<string>HK</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>漢英對照成語詞典 Chinese Idioms and Their English Equivalents&lt;br/&gt;Copyright © 2009, 2020, Commercial Press, under license to Oxford University Press. All rights reserved.</string>
+			<string>漢英對照成語詞典 Chinese Idioms and Their English Equivalents&lt;br/&gt;Copyright © 2009, 2021, Commercial Press, under license to Oxford University Press. All rights reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.zh_HK-en.idioms.cp</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -14216,33 +14216,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>5</integer>
+			<integer>6</integer>
 			<key>_DownloadSize</key>
-			<integer>2038443</integer>
+			<integer>2038774</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			p06fmRgyAcpXJ9ZiXIcU1DaKmH8=
+			JOV+qJMTyKeoy+dHwYklJwcBjvk=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>3219456</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/537b3ef5e4b671e97dc48dc99a6b0ac6739e787b.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/0c2eb18ccad22ab64938db6a6c23c268980dd9c3.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>TW</string>
@@ -14276,27 +14276,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			qp9oBre+TpwKXzj6o6wNQGFF2mQ=
+			BMGh+f6S32b16m/3/LhkJv6Vk1c=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>28184576</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/2581f34b6cac62fc638272d10ad1961ba1af6f0d.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/d781672693f60bbc1e741cc9980fe2f28426ab11.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>US</string>
@@ -14329,27 +14329,27 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			7R9v/Fb0NOtBNke232cHZr2zWnM=
+			5S/hSKcpxp7SqQdoMlSzNbjYdoI=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>297984</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/0259d1bbd50b285346b867718d408ea0872794d5.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/f05945d62a5141133b4e09691f9efa49a2ae50c9.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>TR</string>
@@ -14383,34 +14383,34 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			ELtpNfLY+b7PgMK2udBKILdiLPY=
+			ff259kxTifWUYtMPVzwhQCNh0H0=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>22966272</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/994de15cd99cee787d2ba87b3b9789574c0101c8.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/6b4d753126c6873800ddc663a949fdbe6988c5d4.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>IN</string>
 				<string>PK</string>
 			</array>
 			<key>DictionaryCopyright</key>
-			<string>Oxford English-Urdu Dictionary&lt;br/&gt;Copyright © 1995, Oxford University Press, All rights reserved.&lt;br/&gt;&lt;br/&gt;Oxford Urdu-English Dictionary&lt;br/&gt;Copyright © 2013, Oxford University Press, All rights reserved.</string>
+			<string>Oxford English-Urdu Dictionary&lt;br/&gt;Copyright © 1995, 2021 Oxford University Press, All rights reserved.&lt;br/&gt;&lt;br/&gt;Oxford Urdu-English Dictionary&lt;br/&gt;Copyright © 2013, 2021 Oxford University Press, All rights reserved.</string>
 			<key>DictionaryIdentifier</key>
 			<string>com.apple.dictionary.ur-en.oup</string>
 			<key>DictionaryPackageDisplayName</key>
@@ -14433,33 +14433,33 @@
 			<key>_CompressionAlgorithm</key>
 			<string>zip</string>
 			<key>_ContentVersion</key>
-			<integer>8</integer>
+			<integer>10</integer>
 			<key>_DownloadSize</key>
-			<integer>23207716</integer>
+			<integer>23349019</integer>
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			9eU+9zJhGdQLZX/7N29exoLppAA=
+			FyAQkTHI90FappT3D+kxGlpkW40=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
-			<integer>26828800</integer>
+			<integer>26894336</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/4129b583ae8dde834ccbf9dc28afd200a53e2577.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/cb3a8e0c07591fe9c09c37a98e9a74a76e8b03ba.zip</string>
 		</dict>
 		<dict>
 			<key>Build</key>
-			<string>9M6957</string>
+			<string>10M686</string>
 			<key>Countries</key>
 			<array>
 				<string>VN</string>
@@ -14494,23 +14494,23 @@
 			<key>_IsZipStreamable</key>
 			<true/>
 			<key>_MasteredVersion</key>
-			<string>6957</string>
+			<string>686</string>
 			<key>_Measurement</key>
 			<data>
-			7SeHz0oaT4uxqjCJH13H9A2TZ/I=
+			YBJHM+6OEtdNrD+k//xYg0e8NwU=
 			</data>
 			<key>_MeasurementAlgorithm</key>
 			<string>SHA-1</string>
 			<key>_UnarchivedSize</key>
 			<integer>48287744</integer>
 			<key>__BaseURL</key>
-			<string>https://updates.cdn-apple.com/2021/mobileassets/071-91105/2D5F40AB-A38F-4CE9-A76E-C2B42DAB1DB9/</string>
+			<string>https://updates.cdn-apple.com/2022/mobileassets/071-95772/38E9342A-344F-4BD8-B4DA-C866805647F5/</string>
 			<key>__CanUseLocalCacheServer</key>
 			<true/>
 			<key>__InstallWithOS</key>
 			<true/>
 			<key>__RelativePath</key>
-			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/8071cd09814484fa322c527a5f5c1cd26b0fda9b.zip</string>
+			<string>com_apple_MobileAsset_DictionaryServices_dictionaryOSX/727159647e1eedba4fda3c62cd82683b4e861e87.zip</string>
 		</dict>
 	</array>
 	<key>Certificate</key>
@@ -14540,12 +14540,12 @@
 	<integer>1</integer>
 	<key>Signature</key>
 	<data>
-	iiq26VHunY3sPUmctaIGZZaXsrJie5+3rKD9XHF5dWYUdhtADmPZjhQ82vVH2g9F/btc
-	L/FUVlmgd2LsxxP0duRsZPAO4fcfUxXrbqtbJ+J6nqjwS8TFYiboWp0Gn659aA8WcFVC
-	rvUuzn2drjRyTxNtiZdCVJN7uMsC6IxhSF1EcoZ3s829sFFIkfcjMDuG7SqlLz9tP0wR
-	gtlsXFEZitxghuEDel30+12/VNysPXxwx9Xy6GPu9fjFIJIrwxA9yksrfNUr/1e+B6bX
-	HyTqSzKCyJfn4nwyscM2/xizRaR7zLeHcaxcJD5GtW/g9LdCyjpA9nCPFWDERbxFictD
-	FA==
+	fyQySd2//3nV6F1LJCTl6wDoisOaFXXXdDPMw2pu9IAydF0XYH2LDYchzbhlUBHMqdUH
+	8eidS3EFBG3nioOCOxS7Jq9Sp0fqMf0YqrxAblSC/dlw++PGjHSjaJ/DGwLo5sFcJply
+	XZY0ICUXMWS485RyKa3kQwKd0/hA6+xNZnvXSs8alxPic7y9xy2yh9BbWV0ckqpSwDOE
+	LQksTXAFu0j/PTEfckEBHFnTXY2tx9upLe68d3tlJt8UofWLKnP7ZABEovIARyP+WVQA
+	N4Ao77jdzCV1LykdZ4HBoyn/ZfMzOLm105H4D7AAOYR2JsQ/wzQsxlb4GOB7t6+gCQCc
+	1Q==
 	</data>
 	<key>SigningKey</key>
 	<string>AssetManifestSigning</string>
