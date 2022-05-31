@@ -37,8 +37,10 @@ END {
 			printf "cp -a %s/ %s/\n", l, r
 		}
 	}
+	cmd = "id -u"; cmd | getline uid; close(cmd)
+	#uid = 501
 	printf "chown -R _nsurlsessiond:_nsurlsessiond %s/*.asset\n", shquote(dstdir)
-	printf "chown -R USERNAME:staff %s/*.dictionary\n", shquote(olddir)
+	printf "chown -R %s:staff %s/*.dictionary\n", uid, shquote(olddir)
 }
 
 function shquote(path) {
