@@ -90,7 +90,7 @@ while tsv_read vers size algo hash base path bundle name _; do
   fi
   zipball="${DATA_DIR}/${zipball}"
   case "${url}" in ('http://updates-http.cdn-apple.com/'*)
-    url="https://updates${url#'http://updates-http'}"
+    url="https://updates.${url#'http://updates-http.'}"
   esac
   if ! [ -e "${zipball}" ]; then
     _="$(download -o "${zipball}" "${url}" >&2)" \
@@ -126,3 +126,8 @@ if read -r answer && ! case "${answer}" in ([yY]*) false; esac; then
 else
   echo 'Canceled.'
 fi
+
+# python tsv.py
+# { cat dicts.txt; cut -f5-6 dicts.tsv; } \
+# | sort -t"${TAB}" -k1,1 -s -u \
+# | sponge dicts.txt

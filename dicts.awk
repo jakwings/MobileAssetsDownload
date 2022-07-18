@@ -3,20 +3,21 @@
 BEGIN {
 	FS = OFS = "\t"
 }
-# Monterey
-$1 == 11 {
+
+# CompatibilityVersion: 10 Big Sur?, 11 Monterey?, 12 Ventura?
+$1 == 12 {
 	sub(/.*\//, "", $4)
 	sub(/\.zip$/, ".asset", $4)  # basename(url)
 	original[$5] = $4  # bundle -> zipball
 	next
 }
-# Big Sur
 $1 == 10 {
 	sub(/.*\//, "", $4)
 	sub(/\.zip$/, ".asset", $4)
 	fake[$5] = $4
 	next
 }
+
 END {
 	# python tsv.py  # re-format dicts.tsv
 	# awk -f dicts.awk <dicts.tsv >install.sh
@@ -30,11 +31,11 @@ END {
 		if (k in fake) {
 			l = shquote(srcdir "/" original[k])
 			r = shquote(dstdir "/" fake[k])
-			printf "cp -a %s/ %s/\n", l, r
+			printf "/bin/cp -a %s/ %s/\n", l, r
 		} else {
 			l = shquote(srcdir "/" original[k] "/AssetData")
 			r = shquote(olddir)
-			printf "cp -a %s/ %s/\n", l, r
+			printf "/bin/cp -a %s/ %s/\n", l, r
 		}
 	}
 	cmd = "id -u"; cmd | getline uid; close(cmd)

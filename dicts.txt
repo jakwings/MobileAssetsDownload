@@ -1,10 +1,13 @@
 Apple Dictionary.dictionary	Apple Dictionary
 Arabic - English.dictionary	Oxford Arabic Dictionary - عربي-إنجليزي • إنجليزي-عربي
+Bangla - English.dictionary	Oxford Bengali Dictionaries - বাংলা-ইংরেজি • ইংরেজি-বাংলা
 Cantonese - English.dictionary	英譯廣東口語詞典
+Czech - English.dictionary	Velký anglicko-český a česko-anglický slovník
 Danish.dictionary	Politikens Nudansk Ordbog
 Duden Dictionary Data Set I.dictionary	Duden-Wissensnetz deutsche Sprache
 Dutch - English.dictionary	Prisma Handwoordenboek Engels
 Dutch.dictionary	Prisma woordenboek Nederlands
+Finnish - English.dictionary	MOT sanakirja suomi-englanti, englanti-suomi
 French - English.dictionary	Oxford-Hachette French Dictionary
 French - German.dictionary	PONS Großwörterbuch Französisch Deutsch
 French.dictionary	Multidictionnaire de la langue française
@@ -13,6 +16,7 @@ Gujarati - English.dictionary	Oxford Gujarati Dictionaries - ગુજરાત�
 Hebrew.dictionary	מילון אבן-שושן מחודש ומותאם לשנות האלפיים
 Hindi - English.dictionary	Oxford Hindi Dictionaries - हिन्दी-अंग्रेज़ी • अंग्रेज़ी-हिन्दी
 Hindi.dictionary	राजपाल हिन्दी शब्दकोश
+Hungarian - English.dictionary	Magay Tamás szótár - Magyar-Angol • Angol-Magyar
 Indonesian - English.dictionary	Oxford Study Indonesian Dictionary - Inggris-Indonesia • Indonesia-Inggris
 Italian - English.dictionary	Oxford Paravia Il Dizionario inglese - italiano/italiano - inglese
 Italian.dictionary	Dizionario italiano da un affiliato di Oxford University Press
@@ -47,6 +51,7 @@ Traditional Chinese - English Idioms.dictionary	漢英對照成語詞典
 Traditional Chinese - English.dictionary	譯典通英漢雙向字典
 Traditional Chinese Common Words.dictionary	商務新詞典（全新版）
 Traditional Chinese.dictionary	五南國語活用辭典
+Turkish - English.dictionary	Oxford Turkish Dictionary - Türkçe-İngilizce • İngilizce-Türkçe
 Turkish.dictionary	Arkadaş Türkçe Sözlük
 Urdu - English.dictionary	Oxford Urdu Dictionaries - اردو۔انگریزی • انگریزی-اردو
 Vietnamese - English.dictionary	Từ điển Lạc Việt
